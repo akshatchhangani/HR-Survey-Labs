@@ -2550,7 +2550,7 @@
   },
   "files": {
     "app.R": {
-      "checksum": "abc0e9c01972ee4609accf0068674949"
+      "checksum": "377bd823a665323d0685431f907becfa"
     },
     "R/_disable_autoload.R": {
       "checksum": "d41d8cd98f00b204e9800998ecf8427e"
@@ -2618,8 +2618,14 @@
     "R/survey_registry.R": {
       "checksum": "5ff5edcdb2c306f3e59fd1b136c9b58a"
     },
+    "www/favicon.svg": {
+      "checksum": "f0a4c92109686aa65990d5b6a9cc3671"
+    },
+    "www/logo.svg": {
+      "checksum": "98d7d20f7715a3abcbf7c3e1cc0e5b24"
+    },
     "www/styles.css": {
-      "checksum": "09c2232d5de8742453b994d4eab2e689"
+      "checksum": "0a196819f682e0d326499acb8c3a554b"
     }
   },
   "users": null
