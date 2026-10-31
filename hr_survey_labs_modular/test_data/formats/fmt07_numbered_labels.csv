@@ -1,0 +1,66 @@
+Employee ID,Department,Tenure,I am proud to work for this organisation,I would recommend this organisation as a great place to work,I feel motivated to go beyond what is expected of me,I see myself working here in two years,My manager supports my development,I receive recognition for good work
+N0,Technology,1-3 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree,3 - Neither agree nor disagree,2 - Disagree
+N1,Customer Service,1-3 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,2 - Disagree
+N2,Sales,Less than 1 year,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,5 - Strongly agree,2 - Disagree,3 - Neither agree nor disagree
+N3,Operations,Less than 1 year,4 - Agree,4 - Agree,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,2 - Disagree
+N4,HR,1-3 years,5 - Strongly agree,5 - Strongly agree,4 - Agree,5 - Strongly agree,5 - Strongly agree,5 - Strongly agree
+N5,Customer Service,3-5 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,2 - Disagree,4 - Agree,2 - Disagree,2 - Disagree
+N6,Sales,More than 5 years,5 - Strongly agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N7,Customer Service,More than 5 years,4 - Agree,5 - Strongly agree,4 - Agree,3 - Neither agree nor disagree,4 - Agree,4 - Agree
+N8,Customer Service,More than 5 years,4 - Agree,4 - Agree,5 - Strongly agree,2 - Disagree,3 - Neither agree nor disagree,1 - Strongly disagree
+N9,Customer Service,3-5 years,2 - Disagree,3 - Neither agree nor disagree,1 - Strongly disagree,1 - Strongly disagree,2 - Disagree,4 - Agree
+N10,Finance,1-3 years,4 - Agree,5 - Strongly agree,2 - Disagree,3 - Neither agree nor disagree,2 - Disagree,3 - Neither agree nor disagree
+N11,Customer Service,More than 5 years,4 - Agree,4 - Agree,2 - Disagree,5 - Strongly agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N12,Customer Service,3-5 years,2 - Disagree,1 - Strongly disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree
+N13,Sales,More than 5 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree
+N14,Technology,Less than 1 year,4 - Agree,5 - Strongly agree,4 - Agree,5 - Strongly agree,3 - Neither agree nor disagree,4 - Agree
+N15,Operations,Less than 1 year,5 - Strongly agree,2 - Disagree,5 - Strongly agree,2 - Disagree,4 - Agree,3 - Neither agree nor disagree
+N16,Finance,More than 5 years,4 - Agree,5 - Strongly agree,5 - Strongly agree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N17,Operations,1-3 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,1 - Strongly disagree,2 - Disagree,2 - Disagree
+N18,Technology,More than 5 years,4 - Agree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree
+N19,Finance,More than 5 years,4 - Agree,5 - Strongly agree,3 - Neither agree nor disagree,5 - Strongly agree,5 - Strongly agree,2 - Disagree
+N20,Sales,Less than 1 year,5 - Strongly agree,2 - Disagree,4 - Agree,4 - Agree,3 - Neither agree nor disagree,4 - Agree
+N21,Operations,Less than 1 year,2 - Disagree,4 - Agree,2 - Disagree,5 - Strongly agree,3 - Neither agree nor disagree,2 - Disagree
+N22,Technology,Less than 1 year,5 - Strongly agree,4 - Agree,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N23,Technology,More than 5 years,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,5 - Strongly agree
+N24,Customer Service,3-5 years,2 - Disagree,4 - Agree,2 - Disagree,2 - Disagree,1 - Strongly disagree,2 - Disagree
+N25,Operations,1-3 years,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,1 - Strongly disagree,1 - Strongly disagree,1 - Strongly disagree
+N26,Finance,1-3 years,3 - Neither agree nor disagree,5 - Strongly agree,2 - Disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree
+N27,Customer Service,More than 5 years,4 - Agree,3 - Neither agree nor disagree,2 - Disagree,4 - Agree,4 - Agree,2 - Disagree
+N28,HR,1-3 years,4 - Agree,3 - Neither agree nor disagree,4 - Agree,4 - Agree,2 - Disagree,3 - Neither agree nor disagree
+N29,Customer Service,More than 5 years,3 - Neither agree nor disagree,2 - Disagree,4 - Agree,2 - Disagree,3 - Neither agree nor disagree,2 - Disagree
+N30,Sales,Less than 1 year,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree,5 - Strongly agree
+N31,Sales,More than 5 years,3 - Neither agree nor disagree,4 - Agree,2 - Disagree,4 - Agree,3 - Neither agree nor disagree,4 - Agree
+N32,Customer Service,Less than 1 year,4 - Agree,3 - Neither agree nor disagree,5 - Strongly agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree
+N33,Finance,1-3 years,4 - Agree,2 - Disagree,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,4 - Agree
+N34,Sales,More than 5 years,4 - Agree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree
+N35,Customer Service,1-3 years,5 - Strongly agree,4 - Agree,4 - Agree,2 - Disagree,2 - Disagree,4 - Agree
+N36,Customer Service,More than 5 years,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,1 - Strongly disagree,2 - Disagree,2 - Disagree
+N37,Sales,3-5 years,2 - Disagree,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,4 - Agree,1 - Strongly disagree
+N38,Sales,3-5 years,4 - Agree,3 - Neither agree nor disagree,5 - Strongly agree,4 - Agree,3 - Neither agree nor disagree,4 - Agree
+N39,Operations,More than 5 years,3 - Neither agree nor disagree,1 - Strongly disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,1 - Strongly disagree
+N40,Finance,3-5 years,5 - Strongly agree,4 - Agree,4 - Agree,5 - Strongly agree,4 - Agree,3 - Neither agree nor disagree
+N41,Technology,1-3 years,4 - Agree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree
+N42,Technology,Less than 1 year,2 - Disagree,4 - Agree,2 - Disagree,2 - Disagree,5 - Strongly agree,1 - Strongly disagree
+N43,Finance,3-5 years,4 - Agree,5 - Strongly agree,4 - Agree,4 - Agree,5 - Strongly agree,3 - Neither agree nor disagree
+N44,HR,1-3 years,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,4 - Agree
+N45,Technology,1-3 years,5 - Strongly agree,4 - Agree,4 - Agree,4 - Agree,3 - Neither agree nor disagree,4 - Agree
+N46,Sales,Less than 1 year,5 - Strongly agree,4 - Agree,5 - Strongly agree,4 - Agree,4 - Agree,3 - Neither agree nor disagree
+N47,Finance,3-5 years,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,2 - Disagree
+N48,Customer Service,More than 5 years,4 - Agree,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree,5 - Strongly agree,3 - Neither agree nor disagree
+N49,Sales,More than 5 years,3 - Neither agree nor disagree,5 - Strongly agree,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree,4 - Agree
+N50,Finance,3-5 years,3 - Neither agree nor disagree,2 - Disagree,4 - Agree,4 - Agree,5 - Strongly agree,3 - Neither agree nor disagree
+N51,Customer Service,More than 5 years,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree
+N52,Sales,More than 5 years,4 - Agree,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,4 - Agree,3 - Neither agree nor disagree
+N53,Technology,1-3 years,3 - Neither agree nor disagree,4 - Agree,4 - Agree,2 - Disagree,5 - Strongly agree,5 - Strongly agree
+N54,Operations,More than 5 years,2 - Disagree,4 - Agree,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N55,Customer Service,1-3 years,1 - Strongly disagree,2 - Disagree,4 - Agree,2 - Disagree,2 - Disagree,2 - Disagree
+N56,HR,1-3 years,4 - Agree,4 - Agree,2 - Disagree,4 - Agree,4 - Agree,1 - Strongly disagree
+N57,Sales,1-3 years,4 - Agree,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree
+N58,Sales,More than 5 years,4 - Agree,3 - Neither agree nor disagree,4 - Agree,3 - Neither agree nor disagree,2 - Disagree,1 - Strongly disagree
+N59,Customer Service,Less than 1 year,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,4 - Agree
+N60,Operations,1-3 years,3 - Neither agree nor disagree,2 - Disagree,2 - Disagree,2 - Disagree,3 - Neither agree nor disagree,1 - Strongly disagree
+N61,Sales,Less than 1 year,4 - Agree,2 - Disagree,3 - Neither agree nor disagree,2 - Disagree,3 - Neither agree nor disagree,3 - Neither agree nor disagree
+N62,Technology,3-5 years,2 - Disagree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree,4 - Agree
+N63,HR,1-3 years,5 - Strongly agree,3 - Neither agree nor disagree,2 - Disagree,3 - Neither agree nor disagree,4 - Agree,2 - Disagree
+N64,Sales,1-3 years,5 - Strongly agree,2 - Disagree,4 - Agree,3 - Neither agree nor disagree,3 - Neither agree nor disagree,4 - Agree

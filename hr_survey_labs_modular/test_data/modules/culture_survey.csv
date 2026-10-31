@@ -1,0 +1,301 @@
+Employee ID,Department,Location,Tenure,Our company values guide everyday decisions,People here collaborate well across teams,I can trust my colleagues to support me,People are held accountable for their behaviour,The work environment is positive and respectful,New ideas are encouraged and tried out,Teams share information openly
+E0000,Operations,Pune,Less than 1 year,3,2,4,3,2,3,2
+E0001,Sales,Bengaluru,More than 5 years,4,4,4,2,3,5,4
+E0002,Sales,Mumbai,More than 5 years,4,3,3,4,4,4,4
+E0003,Operations,Pune,Less than 1 year,2,1,3,3,3,2,4
+E0004,Sales,Bengaluru,3-5 years,2,2,3,3,3,2,5
+E0005,HR,Pune,3-5 years,4,5,5,4,4,2,4
+E0006,Technology,Pune,Less than 1 year,4,3,3,4,3,4,2
+E0007,Operations,Bengaluru,1-3 years,4,4,3,3,3,5,3
+E0008,Customer Service,Bengaluru,More than 5 years,1,1,2,1,4,2,3
+E0009,Sales,Pune,1-3 years,3,3,4,2,4,4,4
+E0010,Customer Service,Delhi,1-3 years,3,3,4,3,2,4,3
+E0011,Finance,Mumbai,More than 5 years,3,1,3,2,4,3,5
+E0012,Customer Service,Pune,1-3 years,5,3,4,3,5,2,4
+E0013,Operations,Delhi,More than 5 years,3,4,3,4,4,3,3
+E0014,HR,Mumbai,Less than 1 year,4,5,5,4,5,4,4
+E0015,HR,Mumbai,1-3 years,4,3,3,3,3,3,3
+E0016,HR,Mumbai,3-5 years,5,5,4,4,3,3,4
+E0017,Technology,Delhi,More than 5 years,4,2,3,4,4,4,3
+E0018,Sales,Bengaluru,More than 5 years,3,2,3,4,4,5,4
+E0019,Technology,Bengaluru,More than 5 years,2,2,3,2,2,2,4
+E0020,HR,Delhi,1-3 years,3,3,5,5,3,4,4
+E0021,HR,Bengaluru,3-5 years,2,2,2,2,2,3,5
+E0022,Technology,Mumbai,1-3 years,4,2,1,3,3,4,2
+E0023,Sales,Delhi,3-5 years,2,1,4,5,2,3,4
+E0024,Customer Service,Pune,1-3 years,2,2,3,1,2,4,3
+E0025,Technology,Bengaluru,3-5 years,2,3,4,2,4,2,2
+E0026,Sales,Mumbai,More than 5 years,5,5,4,5,3,5,4
+E0027,Technology,Mumbai,3-5 years,3,5,3,4,5,3,4
+E0028,Operations,Pune,More than 5 years,5,4,3,3,4,2,4
+E0029,Sales,Bengaluru,More than 5 years,3,1,4,4,3,4,4
+E0030,Customer Service,Mumbai,1-3 years,2,3,4,2,4,3,3
+E0031,Technology,Bengaluru,1-3 years,5,3,5,4,5,4,5
+E0032,Sales,Pune,1-3 years,5,3,4,3,3,4,5
+E0033,Technology,Bengaluru,Less than 1 year,4,2,4,4,5,3,4
+E0034,Finance,Bengaluru,3-5 years,3,3,2,1,3,4,4
+E0035,Sales,Bengaluru,1-3 years,3,3,4,2,5,4,5
+E0036,Operations,Pune,3-5 years,4,3,2,4,3,4,4
+E0037,Technology,Pune,Less than 1 year,1,1,2,4,2,3,1
+E0038,Operations,Bengaluru,1-3 years,3,4,3,3,4,2,4
+E0039,Customer Service,Delhi,More than 5 years,4,3,3,2,3,3,3
+E0040,Finance,Bengaluru,1-3 years,2,4,4,3,4,3,3
+E0041,HR,Bengaluru,3-5 years,5,4,3,4,4,4,3
+E0042,HR,Bengaluru,Less than 1 year,3,3,3,3,4,2,2
+E0043,Operations,Mumbai,3-5 years,2,3,1,2,3,2,1
+E0044,Customer Service,Delhi,Less than 1 year,4,1,3,3,4,2,4
+E0045,Operations,Pune,More than 5 years,3,3,5,4,4,2,3
+E0046,HR,Bengaluru,1-3 years,2,1,3,1,2,1,4
+E0047,HR,Bengaluru,1-3 years,4,3,3,4,5,3,4
+E0048,Operations,Pune,1-3 years,3,3,3,4,3,3,4
+E0049,Operations,Mumbai,Less than 1 year,2,1,2,2,3,2,2
+E0050,Operations,Bengaluru,3-5 years,4,3,4,3,1,2,2
+E0051,Finance,Bengaluru,1-3 years,3,4,4,3,4,2,5
+E0052,Sales,Bengaluru,3-5 years,3,5,3,3,2,4,4
+E0053,HR,Delhi,3-5 years,4,5,5,2,4,5,5
+E0054,HR,Bengaluru,1-3 years,5,4,5,3,5,3,5
+E0055,Technology,Pune,1-3 years,3,5,5,3,3,4,4
+E0056,Sales,Delhi,More than 5 years,4,3,4,3,2,4,4
+E0057,Operations,Pune,3-5 years,4,3,2,1,3,4,2
+E0058,Customer Service,Pune,More than 5 years,2,3,3,4,3,2,4
+E0059,Sales,Pune,More than 5 years,3,3,5,1,2,3,2
+E0060,Operations,Pune,More than 5 years,2,1,2,1,1,1,2
+E0061,Sales,Delhi,More than 5 years,3,4,4,3,3,3,3
+E0062,Customer Service,Delhi,More than 5 years,4,3,3,2,3,1,4
+E0063,Customer Service,Pune,Less than 1 year,3,3,5,2,4,3,4
+E0064,Finance,Mumbai,1-3 years,3,4,4,4,2,3,4
+E0065,Finance,Delhi,More than 5 years,3,4,2,2,3,3,3
+E0066,Finance,Pune,3-5 years,5,2,4,2,5,4,4
+E0067,HR,Pune,1-3 years,3,5,4,4,3,3,2
+E0068,Customer Service,Pune,Less than 1 year,1,3,1,2,2,1,2
+E0069,Technology,Bengaluru,Less than 1 year,3,4,4,4,5,3,4
+E0070,Technology,Pune,3-5 years,4,3,1,1,2,1,2
+E0071,Sales,Delhi,Less than 1 year,3,4,3,2,3,2,5
+E0072,Sales,Pune,3-5 years,1,1,3,1,3,2,3
+E0073,Finance,Pune,Less than 1 year,2,1,3,1,1,3,4
+E0074,Customer Service,Mumbai,3-5 years,5,2,4,3,4,4,4
+E0075,Technology,Pune,More than 5 years,4,2,4,2,4,5,4
+E0076,Customer Service,Bengaluru,More than 5 years,3,2,2,1,1,3,3
+E0077,Operations,Pune,Less than 1 year,3,3,5,2,3,3,5
+E0078,Customer Service,Pune,Less than 1 year,3,2,4,3,3,3,3
+E0079,Finance,Mumbai,Less than 1 year,1,3,4,2,4,4,3
+E0080,Customer Service,Pune,1-3 years,2,1,2,1,3,1,2
+E0081,Operations,Pune,Less than 1 year,3,3,3,3,3,4,4
+E0082,Sales,Bengaluru,Less than 1 year,4,5,3,3,4,3,3
+E0083,Technology,Bengaluru,3-5 years,3,2,3,3,2,2,4
+E0084,Technology,Delhi,More than 5 years,3,3,4,3,2,3,5
+E0085,Operations,Delhi,3-5 years,1,3,2,1,5,3,3
+E0086,Finance,Delhi,More than 5 years,3,2,2,3,4,2,4
+E0087,Finance,Bengaluru,More than 5 years,4,4,4,3,4,4,4
+E0088,HR,Pune,More than 5 years,5,4,4,2,3,4,3
+E0089,Operations,Pune,Less than 1 year,5,4,3,3,4,2,4
+E0090,HR,Pune,More than 5 years,4,3,4,5,4,3,3
+E0091,HR,Bengaluru,More than 5 years,4,5,4,3,4,4,4
+E0092,Finance,Delhi,3-5 years,4,4,4,5,3,4,4
+E0093,Operations,Pune,Less than 1 year,2,2,3,3,3,3,2
+E0094,Sales,Bengaluru,3-5 years,5,3,2,2,4,3,3
+E0095,Operations,Mumbai,Less than 1 year,2,4,3,1,1,1,3
+E0096,HR,Bengaluru,1-3 years,5,5,5,5,5,5,5
+E0097,Operations,Delhi,3-5 years,3,3,5,4,4,2,5
+E0098,HR,Pune,3-5 years,4,1,2,4,2,4,4
+E0099,Customer Service,Mumbai,More than 5 years,2,2,3,1,3,2,2
+E0100,Operations,Mumbai,3-5 years,2,2,2,3,2,2,2
+E0101,HR,Delhi,More than 5 years,5,3,4,3,5,5,4
+E0102,Customer Service,Bengaluru,1-3 years,4,2,4,1,4,3,3
+E0103,Customer Service,Pune,More than 5 years,1,2,1,1,1,1,2
+E0104,Technology,Pune,Less than 1 year,3,5,4,4,4,3,5
+E0105,Finance,Mumbai,1-3 years,4,3,2,4,3,4,3
+E0106,Customer Service,Pune,Less than 1 year,3,3,4,3,3,2,3
+E0107,HR,Pune,1-3 years,4,4,4,3,4,3,3
+E0108,Customer Service,Mumbai,3-5 years,2,2,4,3,5,3,5
+E0109,Operations,Mumbai,More than 5 years,3,3,3,2,1,1,3
+E0110,Operations,Delhi,More than 5 years,3,4,3,2,3,2,2
+E0111,Customer Service,Delhi,Less than 1 year,1,2,2,2,3,2,3
+E0112,Operations,Bengaluru,Less than 1 year,4,4,2,1,2,2,3
+E0113,Operations,Bengaluru,1-3 years,3,2,2,3,2,2,3
+E0114,Operations,Pune,3-5 years,4,4,4,4,3,5,3
+E0115,Operations,Bengaluru,More than 5 years,2,2,3,2,3,1,3
+E0116,Sales,Pune,Less than 1 year,3,2,3,2,2,2,2
+E0117,HR,Pune,Less than 1 year,3,3,4,4,1,2,3
+E0118,Sales,Mumbai,1-3 years,5,2,2,4,3,2,3
+E0119,Finance,Pune,More than 5 years,3,3,4,2,2,5,3
+E0120,Sales,Pune,1-3 years,5,3,5,4,4,5,4
+E0121,Operations,Mumbai,1-3 years,4,3,3,2,4,4,3
+E0122,HR,Bengaluru,1-3 years,4,4,4,1,4,2,3
+E0123,Sales,Delhi,3-5 years,4,2,3,3,2,1,1
+E0124,Finance,Mumbai,3-5 years,4,3,3,3,5,3,5
+E0125,Sales,Delhi,Less than 1 year,2,3,2,1,3,2,5
+E0126,Technology,Bengaluru,More than 5 years,3,2,3,2,3,3,3
+E0127,Customer Service,Mumbai,1-3 years,2,4,3,1,3,3,3
+E0128,Technology,Pune,More than 5 years,4,3,4,4,5,4,5
+E0129,HR,Bengaluru,1-3 years,5,4,5,5,3,5,5
+E0130,Sales,Bengaluru,Less than 1 year,1,3,3,2,2,2,3
+E0131,Finance,Bengaluru,1-3 years,2,4,5,3,4,3,4
+E0132,Operations,Delhi,3-5 years,3,3,2,3,2,2,3
+E0133,Finance,Delhi,Less than 1 year,3,3,2,4,2,3,3
+E0134,Finance,Delhi,More than 5 years,4,2,3,4,4,2,5
+E0135,HR,Mumbai,More than 5 years,4,2,3,3,4,3,3
+E0136,Finance,Bengaluru,1-3 years,2,3,2,1,3,3,4
+E0137,Finance,Delhi,Less than 1 year,4,4,5,4,4,5,5
+E0138,Sales,Mumbai,3-5 years,4,3,3,3,4,4,3
+E0139,HR,Mumbai,3-5 years,5,4,3,5,4,4,4
+E0140,Sales,Pune,3-5 years,2,3,5,3,3,4,3
+E0141,Technology,Bengaluru,3-5 years,3,4,3,3,3,4,4
+E0142,HR,Pune,3-5 years,2,1,4,3,3,2,2
+E0143,Technology,Mumbai,Less than 1 year,4,4,4,2,2,3,3
+E0144,Sales,Bengaluru,Less than 1 year,4,3,3,4,4,4,3
+E0145,Sales,Pune,3-5 years,5,3,5,5,4,3,5
+E0146,Sales,Bengaluru,More than 5 years,3,4,3,2,4,3,3
+E0147,Technology,Mumbai,1-3 years,3,3,5,3,2,5,3
+E0148,Operations,Delhi,1-3 years,4,2,4,1,2,1,3
+E0149,Technology,Bengaluru,More than 5 years,4,1,4,1,3,3,1
+E0150,Finance,Pune,1-3 years,5,4,4,3,4,3,5
+E0151,Operations,Pune,1-3 years,3,3,3,1,2,2,4
+E0152,Customer Service,Delhi,More than 5 years,5,3,4,5,4,3,5
+E0153,Finance,Mumbai,3-5 years,5,3,5,3,3,2,4
+E0154,Operations,Pune,More than 5 years,3,1,1,2,1,2,4
+E0155,HR,Mumbai,1-3 years,5,5,5,4,5,4,5
+E0156,Customer Service,Mumbai,Less than 1 year,2,2,3,2,3,2,3
+E0157,Customer Service,Mumbai,3-5 years,2,3,3,3,3,4,4
+E0158,Customer Service,Bengaluru,3-5 years,3,2,3,1,3,1,3
+E0159,Sales,Bengaluru,1-3 years,4,3,4,2,5,2,5
+E0160,Customer Service,Delhi,1-3 years,3,4,3,2,2,3,3
+E0161,Finance,Bengaluru,More than 5 years,2,2,3,2,1,3,3
+E0162,Finance,Pune,Less than 1 year,5,4,5,4,3,4,4
+E0163,Sales,Pune,3-5 years,3,1,1,3,3,1,3
+E0164,Operations,Pune,1-3 years,3,4,4,3,4,2,5
+E0165,Customer Service,Delhi,Less than 1 year,2,1,2,1,2,3,2
+E0166,Technology,Mumbai,3-5 years,2,2,1,2,3,1,1
+E0167,Technology,Pune,1-3 years,5,3,5,4,5,3,5
+E0168,HR,Pune,More than 5 years,5,5,5,4,4,5,5
+E0169,Customer Service,Delhi,3-5 years,3,4,3,1,3,4,4
+E0170,Customer Service,Mumbai,Less than 1 year,3,3,3,3,3,3,4
+E0171,Technology,Delhi,1-3 years,3,4,5,3,3,5,5
+E0172,Customer Service,Pune,Less than 1 year,5,4,4,2,4,3,5
+E0173,Finance,Bengaluru,More than 5 years,3,2,5,4,3,3,5
+E0174,Technology,Pune,Less than 1 year,4,3,5,5,3,4,3
+E0175,Technology,Pune,3-5 years,5,4,5,3,5,5,5
+E0176,Operations,Pune,More than 5 years,4,4,3,3,3,3,3
+E0177,HR,Mumbai,More than 5 years,4,4,5,5,5,4,5
+E0178,Technology,Bengaluru,Less than 1 year,2,3,4,4,2,3,4
+E0179,Customer Service,Delhi,1-3 years,3,3,3,3,4,3,2
+E0180,Finance,Delhi,More than 5 years,4,5,4,2,4,5,4
+E0181,Operations,Bengaluru,More than 5 years,2,2,5,2,3,3,4
+E0182,HR,Bengaluru,1-3 years,4,3,3,4,4,3,5
+E0183,Sales,Pune,3-5 years,2,3,4,1,2,3,4
+E0184,Technology,Delhi,More than 5 years,2,1,2,2,2,2,1
+E0185,Technology,Mumbai,Less than 1 year,3,3,3,3,3,2,3
+E0186,HR,Delhi,Less than 1 year,5,4,5,3,3,2,5
+E0187,Finance,Pune,3-5 years,4,1,3,2,2,4,3
+E0188,Operations,Bengaluru,Less than 1 year,3,2,4,3,4,4,3
+E0189,Customer Service,Mumbai,More than 5 years,3,1,1,2,2,3,3
+E0190,Technology,Bengaluru,3-5 years,4,3,4,4,3,2,5
+E0191,HR,Bengaluru,3-5 years,5,3,5,3,4,3,4
+E0192,Operations,Delhi,3-5 years,1,3,3,3,2,2,3
+E0193,Finance,Delhi,More than 5 years,5,5,5,3,4,3,5
+E0194,Operations,Bengaluru,3-5 years,3,3,4,2,2,2,2
+E0195,Finance,Delhi,1-3 years,3,3,3,4,3,3,4
+E0196,Sales,Pune,3-5 years,4,4,3,4,4,2,2
+E0197,Sales,Pune,Less than 1 year,3,3,3,2,3,2,1
+E0198,Technology,Delhi,3-5 years,4,3,3,2,3,3,4
+E0199,Sales,Pune,1-3 years,3,4,4,3,4,4,5
+E0200,Customer Service,Mumbai,3-5 years,5,3,4,4,4,5,5
+E0201,Finance,Mumbai,Less than 1 year,3,3,5,3,4,3,5
+E0202,Operations,Bengaluru,More than 5 years,3,2,2,1,4,3,2
+E0203,HR,Mumbai,More than 5 years,5,4,3,2,4,4,4
+E0204,Operations,Bengaluru,3-5 years,3,3,4,1,4,4,4
+E0205,Finance,Pune,3-5 years,4,2,3,4,3,2,4
+E0206,Operations,Bengaluru,More than 5 years,2,3,3,2,3,3,4
+E0207,Operations,Pune,Less than 1 year,2,4,3,2,3,3,5
+E0208,Sales,Pune,Less than 1 year,3,4,3,5,4,5,5
+E0209,Customer Service,Mumbai,Less than 1 year,3,2,3,4,3,3,3
+E0210,Sales,Delhi,3-5 years,2,3,3,4,3,3,4
+E0211,Operations,Delhi,More than 5 years,3,2,2,5,2,3,4
+E0212,Sales,Pune,3-5 years,3,3,5,2,4,4,4
+E0213,Customer Service,Mumbai,1-3 years,3,2,2,2,4,3,3
+E0214,HR,Bengaluru,Less than 1 year,5,5,2,5,4,5,5
+E0215,Technology,Mumbai,Less than 1 year,3,4,3,5,3,2,4
+E0216,Technology,Bengaluru,1-3 years,4,2,5,2,5,4,4
+E0217,HR,Mumbai,3-5 years,3,3,3,2,2,3,3
+E0218,Technology,Bengaluru,1-3 years,5,3,4,3,3,5,5
+E0219,Customer Service,Pune,1-3 years,2,3,5,1,2,2,4
+E0220,Customer Service,Pune,3-5 years,4,4,4,3,3,3,4
+E0221,Sales,Bengaluru,1-3 years,5,4,4,4,3,4,5
+E0222,Finance,Bengaluru,3-5 years,3,4,4,2,4,3,3
+E0223,Customer Service,Delhi,3-5 years,2,1,3,1,2,3,1
+E0224,Sales,Bengaluru,3-5 years,3,3,4,2,4,3,4
+E0225,Operations,Delhi,More than 5 years,3,2,4,2,3,4,3
+E0226,Operations,Bengaluru,3-5 years,3,2,4,4,1,3,3
+E0227,Finance,Delhi,3-5 years,3,3,4,2,3,3,4
+E0228,Finance,Delhi,More than 5 years,3,2,3,2,2,3,3
+E0229,Finance,Pune,More than 5 years,5,3,5,4,4,5,5
+E0230,Finance,Pune,More than 5 years,4,3,4,3,5,5,5
+E0231,Operations,Mumbai,More than 5 years,3,1,3,1,2,3,4
+E0232,Finance,Bengaluru,3-5 years,4,3,3,1,4,2,4
+E0233,HR,Mumbai,Less than 1 year,5,4,5,4,3,4,4
+E0234,Sales,Bengaluru,3-5 years,4,2,2,3,4,3,3
+E0235,Finance,Delhi,Less than 1 year,5,2,3,3,3,4,3
+E0236,HR,Bengaluru,1-3 years,4,4,4,3,4,4,3
+E0237,Customer Service,Mumbai,3-5 years,3,4,4,3,4,2,3
+E0238,Operations,Delhi,More than 5 years,3,3,2,2,3,3,2
+E0239,Finance,Bengaluru,1-3 years,5,2,2,3,3,3,4
+E0240,Operations,Delhi,3-5 years,1,2,3,3,2,3,4
+E0241,Technology,Mumbai,Less than 1 year,3,5,4,3,4,3,3
+E0242,HR,Bengaluru,Less than 1 year,5,4,5,5,5,4,4
+E0243,Customer Service,Delhi,Less than 1 year,4,3,3,2,3,2,5
+E0244,Customer Service,Mumbai,3-5 years,5,5,3,4,4,4,3
+E0245,Technology,Pune,More than 5 years,4,2,4,3,3,2,3
+E0246,Sales,Pune,Less than 1 year,2,2,1,1,1,2,2
+E0247,Operations,Delhi,3-5 years,4,3,3,4,1,3,1
+E0248,Finance,Delhi,More than 5 years,4,5,4,5,5,3,3
+E0249,HR,Pune,Less than 1 year,3,3,2,4,4,5,3
+E0250,Operations,Pune,1-3 years,2,3,3,2,4,3,3
+E0251,Customer Service,Delhi,3-5 years,3,1,3,3,2,4,2
+E0252,Operations,Mumbai,3-5 years,2,4,3,3,2,2,3
+E0253,Operations,Bengaluru,More than 5 years,2,3,3,2,3,2,3
+E0254,Customer Service,Bengaluru,3-5 years,2,2,4,3,3,3,4
+E0255,Finance,Pune,1-3 years,4,3,3,2,3,4,5
+E0256,Finance,Delhi,1-3 years,4,5,4,5,3,4,4
+E0257,HR,Mumbai,3-5 years,4,4,5,4,3,4,5
+E0258,Technology,Mumbai,1-3 years,2,4,3,3,1,3,2
+E0259,Operations,Pune,Less than 1 year,4,4,3,4,4,1,3
+E0260,Sales,Delhi,Less than 1 year,4,4,4,4,4,4,3
+E0261,Sales,Bengaluru,1-3 years,3,3,2,1,3,2,4
+E0262,Finance,Delhi,More than 5 years,5,5,3,3,5,3,5
+E0263,Finance,Bengaluru,3-5 years,4,5,5,3,2,4,5
+E0264,Customer Service,Bengaluru,Less than 1 year,3,3,3,2,3,2,3
+E0265,Technology,Mumbai,3-5 years,3,3,2,2,2,3,4
+E0266,Technology,Mumbai,3-5 years,1,1,3,3,4,2,4
+E0267,Customer Service,Delhi,3-5 years,4,1,5,2,2,3,3
+E0268,HR,Delhi,3-5 years,3,4,4,4,3,4,4
+E0269,HR,Mumbai,3-5 years,4,4,4,5,4,5,4
+E0270,Finance,Delhi,1-3 years,4,2,5,3,5,4,3
+E0271,Technology,Mumbai,More than 5 years,4,4,3,2,4,3,3
+E0272,Operations,Delhi,More than 5 years,2,3,3,2,4,4,4
+E0273,Customer Service,Mumbai,Less than 1 year,3,3,3,2,3,3,3
+E0274,Customer Service,Pune,Less than 1 year,4,2,3,4,4,3,5
+E0275,Sales,Mumbai,Less than 1 year,3,3,5,2,3,5,4
+E0276,Technology,Mumbai,Less than 1 year,3,3,3,3,4,3,2
+E0277,Finance,Pune,More than 5 years,4,3,3,4,3,3,3
+E0278,Operations,Mumbai,3-5 years,2,1,2,1,2,4,3
+E0279,Sales,Delhi,3-5 years,3,4,3,4,5,4,4
+E0280,Sales,Mumbai,3-5 years,3,3,3,3,3,3,4
+E0281,HR,Pune,1-3 years,3,5,4,3,3,3,3
+E0282,Sales,Delhi,More than 5 years,2,3,2,3,2,3,4
+E0283,Finance,Mumbai,3-5 years,2,3,2,2,4,2,4
+E0284,Operations,Pune,More than 5 years,3,2,3,2,4,2,3
+E0285,Customer Service,Mumbai,3-5 years,4,2,4,2,3,1,5
+E0286,Operations,Mumbai,3-5 years,5,3,5,3,3,3,3
+E0287,Operations,Mumbai,More than 5 years,2,4,4,5,4,3,2
+E0288,HR,Pune,3-5 years,5,4,4,2,4,4,4
+E0289,Customer Service,Delhi,3-5 years,3,4,4,2,3,3,5
+E0290,Sales,Bengaluru,3-5 years,3,3,4,1,3,4,3
+E0291,HR,Mumbai,More than 5 years,4,2,3,2,1,2,4
+E0292,Finance,Bengaluru,More than 5 years,2,2,2,3,2,3,3
+E0293,Customer Service,Bengaluru,1-3 years,5,5,5,3,3,3,5
+E0294,Technology,Mumbai,1-3 years,5,3,3,3,4,5,4
+E0295,Operations,Bengaluru,Less than 1 year,3,3,3,2,3,3,3
+E0296,HR,Mumbai,1-3 years,4,3,5,4,4,5,5
+E0297,Operations,Delhi,1-3 years,3,4,2,2,3,3,4
+E0298,Operations,Pune,Less than 1 year,2,2,3,3,3,1,5
+E0299,Sales,Pune,More than 5 years,3,4,1,2,2,2,2
