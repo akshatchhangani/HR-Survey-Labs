@@ -1,0 +1,821 @@
+Employee_ID,Department,Location,Job_Level,Work_Mode,Gender,Age,Tenure_Years,Engagement_Score,Manager_Support,Growth_Opportunities,Recognition,Work_Life_Balance,Workload,Communication,Belonging,Leadership_Trust,Pay_Satisfaction,Collaboration,Recommend_Employer_0_10,Absence_Days_Last_Year,Performance_Rating,Comments
+EMP0001,Sales,Hyderabad,Senior Manager,On-site,Female,31,1.6,4,4,4,3,3,4,5,3,2,3,4,8,7,3,My manager is supportive and approachable.
+EMP0002,Operations,Bengaluru,Team Lead,Remote,Male,26,2.8,3,3,3,4,3,4,4,3,3,3,4,5,9,3,Would like more learning opportunities.
+EMP0003,Customer Support,Delhi,Manager,Hybrid,Male,33,3.1,3,4,2,3,3,3,3,4,3,1,5,10,4,2,"Great team, but too many meetings."
+EMP0004,Operations,Delhi,Team Lead,Hybrid,Male,31,2.8,2,2,2,4,2,3,4,4,3,2,3,7,3,3,"Great team, but too many meetings."
+EMP0005,Technology,Mumbai,Manager,Hybrid,Female,32,3.3,4,4,3,2,3,4,5,4,4,2,5,7,5,3,Would like more learning opportunities.
+EMP0006,Technology,Mumbai,Senior Associate,Hybrid,Female,36,11.5,3,4,3,3,4,3,5,4,2,2,5,7,3,2,My manager is supportive and approachable.
+EMP0007,Technology,Pune,Team Lead,Remote,Male,28,1.0,5,5,4,3,4,3,5,5,4,3,3,10,3,4,Would like more learning opportunities.
+EMP0008,Technology,Pune,Associate,On-site,Male,31,5.0,3,4,2,3,4,3,4,5,4,3,4,4,8,4,"Great team, but too many meetings."
+EMP0009,Customer Support,Pune,Associate,On-site,Female,35,3.2,3,4,3,3,2,3,3,5,3,2,3,4,8,2,
+EMP0010,Customer Support,Bengaluru,Senior Associate,On-site,Male,30,2.0,3,2,4,3,4,4,3,3,4,4,3,8,8,3,
+EMP0011,Sales,Mumbai,Team Lead,On-site,Male,33,3.0,4,5,3,4,4,3,3,5,4,3,5,8,7,4,Workload has been very high this quarter.
+EMP0012,Operations,Delhi,Senior Associate,On-site,Female,35,8.1,1,2,3,4,1,3,4,3,4,2,4,2,12,3,
+EMP0013,Operations,Delhi,Associate,Remote,Female,30,3.9,3,3,2,3,4,3,4,4,3,4,4,6,6,3,"Great team, but too many meetings."
+EMP0014,Sales,Hyderabad,Team Lead,Hybrid,Male,38,11.3,4,4,4,4,3,3,3,5,2,2,3,10,5,3,
+EMP0015,Technology,Pune,Senior Associate,Remote,Male,24,4.9,4,2,5,3,2,5,4,4,4,2,4,8,4,3,
+EMP0016,Finance,Mumbai,Manager,On-site,Male,25,9.7,4,3,4,3,4,4,4,4,3,1,5,7,1,5,Shift timings make work-life balance hard.
+EMP0017,Technology,Hyderabad,Associate,Hybrid,Male,30,9.9,5,4,3,5,3,3,4,3,3,3,2,7,2,5,"Great team, but too many meetings."
+EMP0018,Sales,Hyderabad,Associate,Hybrid,Female,39,1.6,3,4,4,4,3,2,4,4,3,4,3,9,7,3,
+EMP0019,Operations,Delhi,Associate,On-site,Female,40,3.4,4,2,2,4,4,4,4,4,3,4,4,7,7,3,Pay is below market for my role.
+EMP0020,Operations,Bengaluru,Team Lead,Hybrid,Male,31,3.6,3,3,4,4,2,3,3,4,4,3,4,7,6,2,Shift timings make work-life balance hard.
+EMP0021,Finance,Mumbai,Senior Associate,Hybrid,Male,31,2.8,3,4,3,3,3,2,4,3,3,3,4,9,8,4,Pay is below market for my role.
+EMP0022,Customer Support,Delhi,Associate,Hybrid,Male,24,2.5,2,4,3,3,3,3,3,4,3,3,3,6,8,3,Leadership communication has improved.
+EMP0023,Human Resources,Hyderabad,Senior Associate,Hybrid,Female,40,1.0,5,5,4,5,5,3,5,3,3,4,4,10,3,5,More clarity on promotion criteria would help.
+EMP0024,Human Resources,Delhi,Associate,On-site,Male,31,3.2,3,2,3,3,3,3,5,2,2,2,5,7,3,2,"Great team, but too many meetings."
+EMP0025,Human Resources,Delhi,Senior Associate,Remote,Male,31,6.8,5,4,4,5,4,3,4,5,4,2,5,9,3,3,Leadership communication has improved.
+EMP0026,Marketing,Pune,Associate,On-site,Female,23,1.0,3,4,3,3,4,1,4,4,3,3,3,7,7,3,"Great team, but too many meetings."
+EMP0027,Sales,Delhi,Associate,Hybrid,Female,33,2.8,4,4,4,4,2,3,4,3,3,3,4,8,6,5,
+EMP0028,Human Resources,Delhi,Team Lead,On-site,Male,38,6.9,4,4,3,5,4,3,2,4,4,4,4,9,1,4,My manager is supportive and approachable.
+EMP0029,Sales,Pune,Senior Associate,Remote,Female,21,2.9,2,3,3,4,2,3,4,3,4,4,2,4,6,2,Shift timings make work-life balance hard.
+EMP0030,Sales,Delhi,Associate,On-site,Female,44,3.0,4,3,4,4,4,3,5,5,3,3,3,8,6,3,"Great team, but too many meetings."
+EMP0031,Customer Support,Mumbai,Senior Manager,On-site,Male,27,3.7,5,4,5,5,5,3,3,5,3,5,4,10,2,3,Would like more learning opportunities.
+EMP0032,Finance,Delhi,Senior Associate,Hybrid,Female,38,5.8,5,4,4,4,4,4,3,4,2,4,5,10,4,4,My manager is supportive and approachable.
+EMP0033,Customer Support,Mumbai,Team Lead,Hybrid,Male,25,4.5,3,3,5,4,3,4,3,4,4,3,4,8,3,4,Pay is below market for my role.
+EMP0034,Customer Support,Hyderabad,Senior Associate,Hybrid,Male,28,4.7,3,3,4,5,3,3,4,4,4,4,3,6,6,5,
+EMP0035,Human Resources,Delhi,Associate,Hybrid,Male,33,4.0,3,4,2,4,4,4,4,5,2,4,3,10,7,3,
+EMP0036,Human Resources,Mumbai,Associate,On-site,Female,25,13.6,5,5,3,3,3,5,5,5,4,3,5,8,5,5,
+EMP0037,Operations,Pune,Team Lead,On-site,Female,36,3.0,4,4,4,3,2,3,4,4,3,3,3,9,9,3,Workload has been very high this quarter.
+EMP0038,Finance,Mumbai,Manager,Remote,Female,26,1.1,3,4,4,3,2,4,2,4,4,3,3,9,6,4,"Great team, but too many meetings."
+EMP0039,Finance,Hyderabad,Senior Associate,Remote,Male,27,5.8,3,3,3,5,3,3,3,5,4,2,5,5,7,2,My manager is supportive and approachable.
+EMP0040,Operations,Hyderabad,Manager,Remote,Female,25,1.5,3,3,4,2,1,5,3,3,4,3,2,8,7,3,Pay is below market for my role.
+EMP0041,Technology,Delhi,Senior Manager,Hybrid,Male,27,4.9,3,4,1,3,4,4,3,4,2,3,4,8,6,3,Pay is below market for my role.
+EMP0042,Operations,Pune,Associate,Hybrid,Female,23,3.1,5,4,3,3,5,3,2,5,4,4,2,10,6,4,
+EMP0043,Operations,Hyderabad,Senior Associate,Hybrid,Female,30,5.0,2,4,4,2,3,2,4,2,3,2,4,5,10,2,Leadership communication has improved.
+EMP0044,Customer Support,Hyderabad,Associate,Hybrid,Female,39,7.7,4,4,3,3,3,1,4,5,3,2,3,7,8,3,Workload has been very high this quarter.
+EMP0045,Technology,Mumbai,Team Lead,Hybrid,Male,32,2.7,4,4,3,4,2,4,3,4,3,3,3,10,3,4,Leadership communication has improved.
+EMP0046,Operations,Hyderabad,Team Lead,Hybrid,Female,27,3.5,3,4,3,5,3,3,4,4,4,4,5,6,5,3,My manager is supportive and approachable.
+EMP0047,Operations,Mumbai,Manager,On-site,Prefer not to say,40,7.2,4,4,3,3,5,5,3,4,4,2,5,8,6,4,
+EMP0048,Technology,Mumbai,Associate,Remote,Female,33,2.1,4,4,3,3,5,3,4,4,4,5,3,7,6,3,Workload has been very high this quarter.
+EMP0049,Finance,Mumbai,Manager,Hybrid,Male,36,5.9,3,4,3,3,4,4,2,3,4,3,3,8,7,4,Workload has been very high this quarter.
+EMP0050,Operations,Pune,Manager,On-site,Male,39,2.0,4,3,3,3,4,3,4,4,5,3,2,7,5,4,My manager is supportive and approachable.
+EMP0051,Sales,Bengaluru,Associate,Hybrid,Female,28,3.3,5,4,4,4,4,3,4,5,4,3,4,10,4,3,Shift timings make work-life balance hard.
+EMP0052,Technology,Delhi,Manager,On-site,Female,31,2.9,3,4,3,4,3,3,3,3,2,4,5,7,8,4,Leadership communication has improved.
+EMP0053,Marketing,Bengaluru,Senior Manager,Hybrid,Female,35,8.9,5,5,4,5,3,4,5,5,3,3,3,10,1,5,My manager is supportive and approachable.
+EMP0054,Technology,Pune,Associate,Hybrid,Male,33,2.6,2,4,2,3,4,1,4,5,3,2,4,6,9,3,
+EMP0055,Marketing,Hyderabad,Senior Associate,On-site,Female,37,9.2,4,4,5,3,4,4,5,4,4,2,5,7,7,4,
+EMP0056,Human Resources,Pune,Associate,Hybrid,Female,38,9.8,4,3,4,5,3,5,5,3,3,4,3,8,5,3,
+EMP0057,Technology,Delhi,Team Lead,On-site,Female,35,5.1,3,4,3,4,3,2,4,4,2,3,4,6,6,4,
+EMP0058,Operations,Bengaluru,Senior Associate,On-site,Male,42,2.2,3,3,3,2,4,2,4,4,3,3,4,7,8,3,More clarity on promotion criteria would help.
+EMP0059,Sales,Pune,Team Lead,Remote,Male,33,1.1,4,3,3,4,4,3,5,4,4,4,4,7,7,2,
+EMP0060,Technology,Hyderabad,Associate,On-site,Male,31,3.8,3,3,3,3,3,3,2,4,3,3,3,8,9,3,Workload has been very high this quarter.
+EMP0061,Operations,Bengaluru,Associate,Hybrid,Female,39,1.9,4,4,4,4,4,3,5,4,3,3,4,8,4,3,Leadership communication has improved.
+EMP0062,Marketing,Delhi,Team Lead,On-site,Male,35,4.8,4,4,3,3,4,3,4,3,4,4,4,9,0,4,Shift timings make work-life balance hard.
+EMP0063,Customer Support,Bengaluru,Associate,Hybrid,Male,36,4.2,4,3,4,3,3,3,4,4,4,3,4,10,7,3,Shift timings make work-life balance hard.
+EMP0064,Finance,Pune,Manager,Hybrid,Female,31,1.8,5,4,5,5,4,4,5,5,4,3,5,9,1,3,
+EMP0065,Human Resources,Delhi,Manager,Remote,Male,28,2.3,5,4,4,4,5,4,4,3,5,2,5,10,3,4,Shift timings make work-life balance hard.
+EMP0066,Finance,Hyderabad,Associate,Hybrid,Male,37,1.7,4,4,4,4,3,3,4,4,5,4,5,7,5,4,
+EMP0067,Operations,Hyderabad,Associate,On-site,Female,37,4.5,2,1,2,4,3,2,4,4,3,3,5,2,5,3,Leadership communication has improved.
+EMP0068,Sales,Bengaluru,Manager,Hybrid,Prefer not to say,34,6.8,4,5,3,4,4,4,3,5,3,3,5,6,4,4,Leadership communication has improved.
+EMP0069,Finance,Pune,Senior Associate,Hybrid,Male,36,4.1,5,4,5,4,3,4,4,4,3,4,4,9,7,4,More clarity on promotion criteria would help.
+EMP0070,Operations,Delhi,Manager,Hybrid,Male,30,2.3,2,2,3,4,3,4,4,4,1,4,5,6,7,2,"Great team, but too many meetings."
+EMP0071,Sales,Pune,Senior Associate,Hybrid,Female,32,4.3,4,5,3,3,3,3,5,3,3,3,5,8,5,2,
+EMP0072,Customer Support,Mumbai,Manager,On-site,Female,26,2.4,2,1,4,4,3,3,3,4,3,2,4,6,4,3,
+EMP0073,Technology,Mumbai,Senior Associate,On-site,Female,30,2.8,2,4,3,4,2,5,4,3,3,4,4,5,5,2,
+EMP0074,Operations,Mumbai,Associate,Hybrid,Male,46,3.2,2,4,1,2,4,4,4,4,3,3,3,6,10,4,
+EMP0075,Technology,Mumbai,Senior Associate,Hybrid,Male,31,8.3,3,4,3,3,4,4,4,5,2,4,4,8,5,4,
+EMP0076,Finance,Bengaluru,Team Lead,Hybrid,Male,43,9.4,4,4,4,4,4,3,4,3,4,4,3,7,7,2,My manager is supportive and approachable.
+EMP0077,Sales,Mumbai,Associate,Hybrid,Male,34,5.0,4,2,2,5,3,4,3,4,5,3,3,8,6,4,
+EMP0078,Customer Support,Hyderabad,Team Lead,Hybrid,Female,25,1.3,3,3,2,2,3,3,3,3,4,2,4,4,3,2,"Great team, but too many meetings."
+EMP0079,Operations,Bengaluru,Associate,On-site,Male,26,1.7,4,5,4,3,4,3,3,3,3,3,3,8,5,3,My manager is supportive and approachable.
+EMP0080,Technology,Bengaluru,Associate,Hybrid,Male,33,1.8,3,4,4,4,3,3,3,4,3,2,3,6,6,4,Pay is below market for my role.
+EMP0081,Finance,Delhi,Associate,Remote,Male,35,4.1,3,3,3,3,5,3,4,3,2,3,4,7,5,5,Workload has been very high this quarter.
+EMP0082,Marketing,Delhi,Senior Manager,Hybrid,Male,29,2.1,5,5,4,3,2,3,5,5,3,2,5,8,0,3,Shift timings make work-life balance hard.
+EMP0083,Finance,Hyderabad,Team Lead,Hybrid,Female,31,2.2,4,4,3,4,4,5,5,4,4,4,2,8,1,5,"Great team, but too many meetings."
+EMP0084,Operations,Delhi,Senior Associate,On-site,Male,33,4.0,3,2,3,4,3,4,4,3,3,3,4,7,4,3,Would like more learning opportunities.
+EMP0085,Sales,Bengaluru,Senior Associate,Hybrid,Female,28,6.2,4,4,2,4,4,3,3,5,4,3,5,6,7,3,Pay is below market for my role.
+EMP0086,Customer Support,Bengaluru,Associate,Hybrid,Female,29,3.2,1,3,3,3,2,2,3,4,2,4,4,3,14,3,
+EMP0087,Marketing,Hyderabad,Manager,On-site,Male,24,5.6,4,4,3,4,4,3,4,4,4,2,3,7,1,3,
+EMP0088,Technology,Hyderabad,Senior Manager,On-site,Male,30,2.5,5,5,3,5,3,4,2,5,1,3,3,10,5,3,My manager is supportive and approachable.
+EMP0089,Sales,Hyderabad,Senior Manager,Hybrid,Male,43,4.1,5,5,3,2,4,5,5,4,5,4,3,10,3,4,Workload has been very high this quarter.
+EMP0090,Customer Support,Bengaluru,Senior Associate,Hybrid,Male,32,1.9,4,5,2,3,3,5,4,5,3,4,5,7,5,3,Leadership communication has improved.
+EMP0091,Customer Support,Delhi,Associate,On-site,Male,39,7.6,4,4,2,5,2,4,4,3,3,4,5,6,4,3,
+EMP0092,Technology,Hyderabad,Associate,Hybrid,Male,28,3.5,3,2,4,4,3,3,3,3,5,4,3,9,10,3,Leadership communication has improved.
+EMP0093,Customer Support,Delhi,Senior Associate,Hybrid,Female,34,1.3,3,5,4,2,3,2,3,3,3,2,4,8,8,3,
+EMP0094,Human Resources,Pune,Senior Associate,On-site,Female,29,8.6,5,4,5,4,4,4,5,5,4,4,5,10,0,5,My manager is supportive and approachable.
+EMP0095,Sales,Hyderabad,Team Lead,On-site,Female,43,2.9,3,3,2,4,3,2,4,3,3,1,4,5,9,3,Pay is below market for my role.
+EMP0096,Marketing,Bengaluru,Manager,Remote,Female,38,1.5,3,3,3,4,2,3,5,5,3,2,4,7,8,3,Shift timings make work-life balance hard.
+EMP0097,Technology,Delhi,Associate,On-site,Male,44,5.4,3,4,3,4,4,4,2,4,3,2,3,9,8,4,
+EMP0098,Sales,Hyderabad,Associate,Hybrid,Male,43,7.0,4,5,4,3,4,4,4,5,2,3,4,8,6,4,Workload has been very high this quarter.
+EMP0099,Sales,Pune,Manager,Remote,Female,33,0.9,3,3,2,3,3,3,2,4,4,4,5,8,7,4,Pay is below market for my role.
+EMP0100,Technology,Delhi,Manager,On-site,Male,40,6.4,4,4,3,3,4,4,3,4,3,3,5,7,3,2,Would like more learning opportunities.
+EMP0101,Operations,Pune,Associate,Hybrid,Prefer not to say,46,34.9,4,3,3,4,3,2,5,2,5,3,5,8,1,3,More clarity on promotion criteria would help.
+EMP0102,Operations,Pune,Associate,Hybrid,Male,47,5.8,3,4,4,3,2,3,4,4,4,3,2,8,4,2,Would like more learning opportunities.
+EMP0103,Sales,Pune,Senior Manager,Hybrid,Female,36,8.8,3,4,3,3,3,4,2,4,3,2,4,4,8,3,
+EMP0104,Sales,Bengaluru,Manager,On-site,Male,31,6.3,5,4,5,5,3,4,4,5,2,3,4,9,0,4,My manager is supportive and approachable.
+EMP0105,Marketing,Mumbai,Manager,Hybrid,Female,33,7.9,4,4,3,4,3,4,4,4,5,4,3,10,4,3,"Great team, but too many meetings."
+EMP0106,Sales,Pune,Senior Manager,Hybrid,Female,28,8.4,4,3,4,4,3,5,4,3,4,3,4,8,5,3,
+EMP0107,Operations,Mumbai,Senior Associate,On-site,Male,38,0.8,4,5,3,4,2,4,5,4,4,3,4,10,1,2,Shift timings make work-life balance hard.
+EMP0108,Customer Support,Pune,Team Lead,On-site,Female,31,3.7,3,4,2,3,3,3,3,4,4,4,4,6,5,5,
+EMP0109,Sales,Pune,Team Lead,Hybrid,Female,36,1.7,2,3,2,3,3,3,4,2,4,4,4,6,12,3,
+EMP0110,Operations,Delhi,Team Lead,Hybrid,Male,45,6.4,5,4,4,3,3,3,4,3,2,2,2,10,0,5,
+EMP0111,Customer Support,Mumbai,Senior Associate,On-site,Female,28,3.6,3,4,3,4,3,4,4,5,4,3,5,9,5,3,Workload has been very high this quarter.
+EMP0112,Human Resources,Hyderabad,Team Lead,Hybrid,Male,35,7.3,4,4,4,3,5,4,3,3,4,3,4,10,4,3,
+EMP0113,Customer Support,Bengaluru,Team Lead,On-site,Female,38,1.9,3,3,3,3,3,3,2,3,3,2,4,8,6,4,
+EMP0114,Operations,Bengaluru,Senior Associate,On-site,Male,40,15.6,4,3,3,4,4,3,4,4,4,4,2,7,3,4,
+EMP0115,Sales,Delhi,Associate,On-site,Female,32,5.0,2,3,3,4,2,3,2,3,3,3,4,5,6,2,Leadership communication has improved.
+EMP0116,Operations,Hyderabad,Associate,Hybrid,Female,31,5.1,3,4,4,3,1,4,4,5,2,2,3,6,3,3,More clarity on promotion criteria would help.
+EMP0117,Finance,Pune,Manager,Hybrid,Female,32,2.3,5,5,4,4,5,3,4,5,3,2,5,10,5,3,Pay is below market for my role.
+EMP0118,Finance,Pune,Manager,Hybrid,Female,39,3.2,5,3,3,4,5,4,4,5,4,3,4,10,1,3,My manager is supportive and approachable.
+EMP0119,Technology,Hyderabad,Manager,Hybrid,Male,42,9.6,4,4,4,3,4,2,1,4,3,2,4,9,5,3,My manager is supportive and approachable.
+EMP0120,Operations,Mumbai,Team Lead,Hybrid,Female,39,4.9,3,5,2,3,3,3,3,4,4,5,2,5,4,4,Shift timings make work-life balance hard.
+EMP0121,Operations,Bengaluru,Senior Associate,Remote,Male,36,2.2,3,2,4,4,4,4,2,3,4,3,3,7,4,3,Leadership communication has improved.
+EMP0122,Technology,Pune,Team Lead,Hybrid,Male,39,0.9,5,5,5,3,4,5,4,5,4,3,4,10,0,4,
+EMP0123,Sales,Delhi,Senior Manager,Hybrid,Male,29,1.9,4,3,4,4,5,3,3,3,4,2,3,9,4,3,Workload has been very high this quarter.
+EMP0124,Operations,Bengaluru,Senior Associate,Hybrid,Female,31,1.8,3,3,3,3,2,2,5,5,4,4,3,7,1,4,Workload has been very high this quarter.
+EMP0125,Operations,Bengaluru,Senior Associate,Hybrid,Male,25,2.3,2,3,2,4,3,2,4,4,4,3,5,7,9,3,
+EMP0126,Sales,Delhi,Team Lead,Hybrid,Female,22,3.8,4,4,3,3,3,1,3,4,2,3,4,7,7,4,Workload has been very high this quarter.
+EMP0127,Human Resources,Bengaluru,Associate,Remote,Female,29,1.2,4,4,2,4,5,4,3,5,3,3,3,7,5,3,More clarity on promotion criteria would help.
+EMP0128,Sales,Pune,Associate,Hybrid,Male,40,7.5,3,3,3,4,3,3,4,4,4,3,3,6,3,2,"Great team, but too many meetings."
+EMP0129,Operations,Bengaluru,Associate,On-site,Female,26,3.0,2,3,3,2,1,2,2,2,4,3,3,3,7,2,Workload has been very high this quarter.
+EMP0130,Operations,Bengaluru,Senior Associate,On-site,Female,35,2.0,3,4,1,3,3,2,3,4,3,3,4,4,8,3,Would like more learning opportunities.
+EMP0131,Human Resources,Mumbai,Associate,On-site,Male,37,6.4,4,4,4,3,5,3,4,2,4,4,4,10,3,3,More clarity on promotion criteria would help.
+EMP0132,Customer Support,Hyderabad,Associate,On-site,Male,32,8.1,3,2,3,4,4,4,4,2,4,5,3,5,5,3,More clarity on promotion criteria would help.
+EMP0133,Sales,Delhi,Associate,On-site,Female,38,3.7,2,4,1,3,2,2,4,3,3,3,4,4,13,3,Leadership communication has improved.
+EMP0134,Operations,Bengaluru,Manager,On-site,Male,23,2.6,3,4,3,4,3,4,4,4,4,3,3,7,6,3,More clarity on promotion criteria would help.
+EMP0135,Finance,Mumbai,Associate,On-site,Female,31,4.2,4,4,2,3,3,3,2,4,4,2,4,8,7,4,
+EMP0136,Human Resources,Mumbai,Manager,Remote,Female,29,1.9,5,3,3,5,4,4,3,4,5,3,4,8,0,5,
+EMP0137,Technology,Bengaluru,Associate,Hybrid,Male,24,2.8,5,3,5,5,3,5,4,4,4,3,4,8,2,4,Leadership communication has improved.
+EMP0138,Sales,Pune,Senior Associate,Hybrid,Female,35,2.5,4,4,4,3,3,4,4,4,3,3,4,8,2,3,Shift timings make work-life balance hard.
+EMP0139,Operations,Hyderabad,Associate,On-site,Male,27,1.1,2,4,2,3,3,3,3,3,2,4,4,4,6,3,Leadership communication has improved.
+EMP0140,Finance,Mumbai,Senior Associate,On-site,Male,36,1.5,5,5,5,3,4,4,3,5,4,3,3,10,3,4,Workload has been very high this quarter.
+EMP0141,Sales,Delhi,Associate,Hybrid,Male,21,0.5,5,4,4,4,3,5,4,3,3,2,4,10,5,5,More clarity on promotion criteria would help.
+EMP0142,Operations,Bengaluru,Senior Associate,Hybrid,Female,49,10.7,4,3,4,3,3,3,4,4,4,2,4,10,11,3,
+EMP0143,Marketing,Delhi,Senior Associate,Hybrid,Male,37,9.4,5,5,4,3,5,2,3,4,2,3,5,10,8,4,Would like more learning opportunities.
+EMP0144,Operations,Delhi,Associate,On-site,Male,37,6.9,1,3,1,3,1,3,3,4,4,3,3,6,8,1,My manager is supportive and approachable.
+EMP0145,Operations,Bengaluru,Manager,Hybrid,Female,40,5.2,5,5,4,5,2,2,4,3,3,5,4,6,6,3,Pay is below market for my role.
+EMP0146,Sales,Mumbai,Senior Associate,Hybrid,Male,26,3.8,5,4,4,4,5,4,2,5,5,4,4,10,5,3,My manager is supportive and approachable.
+EMP0147,Customer Support,Pune,Associate,On-site,Female,25,3.3,2,3,2,3,3,2,3,4,4,3,4,7,8,3,
+EMP0148,Customer Support,Hyderabad,Manager,Remote,Female,30,6.1,3,1,2,3,4,3,4,4,5,2,5,3,7,2,My manager is supportive and approachable.
+EMP0149,Technology,Pune,Associate,On-site,Female,21,4.0,4,5,4,3,2,3,4,3,3,4,4,7,4,2,Would like more learning opportunities.
+EMP0150,Marketing,Delhi,Associate,On-site,Male,34,1.0,3,3,2,4,3,3,3,5,4,3,4,9,11,2,
+EMP0151,Finance,Bengaluru,Team Lead,Hybrid,Male,29,1.5,5,4,4,3,5,3,3,4,4,3,4,9,8,3,More clarity on promotion criteria would help.
+EMP0152,Operations,Hyderabad,Manager,On-site,Female,28,1.0,2,3,2,3,3,3,4,3,3,3,4,5,7,4,More clarity on promotion criteria would help.
+EMP0153,Sales,Mumbai,Manager,Hybrid,Male,35,2.4,3,4,4,3,3,2,2,4,4,1,4,6,9,2,
+EMP0154,Customer Support,Mumbai,Associate,On-site,Female,24,3.6,4,4,3,4,4,3,2,4,3,4,3,7,5,4,
+EMP0155,Operations,Pune,Associate,On-site,Male,34,0.5,3,4,3,3,4,3,3,3,2,4,4,6,6,3,Shift timings make work-life balance hard.
+EMP0156,Technology,Bengaluru,Team Lead,Hybrid,Female,39,6.2,5,3,4,5,5,2,3,3,4,5,4,9,3,3,Workload has been very high this quarter.
+EMP0157,Operations,Pune,Senior Associate,Remote,Male,26,1.7,3,3,4,3,4,1,4,3,3,3,5,7,6,3,
+EMP0158,Sales,Mumbai,Associate,On-site,Male,21,4.1,3,5,2,2,3,3,3,4,3,3,5,8,7,3,
+EMP0159,Technology,Delhi,Associate,On-site,Female,40,9.1,3,2,4,3,5,2,4,2,3,2,4,7,7,2,
+EMP0160,Operations,Mumbai,Senior Associate,On-site,Female,31,4.4,3,4,3,3,3,2,3,3,2,4,3,5,7,4,Would like more learning opportunities.
+EMP0161,Marketing,Pune,Associate,On-site,Female,32,4.6,4,4,4,4,3,2,3,4,4,1,3,7,7,3,Leadership communication has improved.
+EMP0162,Customer Support,Bengaluru,Team Lead,On-site,Female,34,4.5,4,4,5,5,2,3,3,4,2,4,4,6,5,3,Shift timings make work-life balance hard.
+EMP0163,Customer Support,Mumbai,Associate,Hybrid,Female,38,5.0,4,3,4,4,3,4,4,5,4,4,3,6,7,4,Pay is below market for my role.
+EMP0164,Operations,Hyderabad,Senior Associate,On-site,Male,24,1.1,3,3,4,3,2,3,4,4,4,3,5,9,5,3,My manager is supportive and approachable.
+EMP0165,Operations,Pune,Associate,Hybrid,Male,30,1.9,2,4,3,2,3,3,4,4,3,3,5,3,4,2,Pay is below market for my role.
+EMP0166,Sales,Hyderabad,Senior Associate,Hybrid,Male,26,3.3,4,5,4,3,4,4,5,4,3,4,5,9,3,4,
+EMP0167,Human Resources,Mumbai,Associate,On-site,Male,29,2.5,3,3,3,3,2,4,5,3,5,4,5,7,5,4,My manager is supportive and approachable.
+EMP0168,Finance,Bengaluru,Associate,Hybrid,Female,36,3.3,2,3,3,3,2,3,3,4,4,3,4,6,10,1,Leadership communication has improved.
+EMP0169,Marketing,Bengaluru,Associate,Hybrid,Male,21,2.3,5,5,5,4,4,4,3,4,4,3,4,10,3,4,
+EMP0170,Technology,Pune,Senior Associate,Remote,Female,27,2.8,4,3,3,5,4,3,5,4,3,3,4,5,7,2,"Great team, but too many meetings."
+EMP0171,Sales,Hyderabad,Manager,Hybrid,Female,32,3.3,4,4,3,4,4,4,3,4,4,2,3,8,3,4,
+EMP0172,Technology,Mumbai,Senior Manager,On-site,Male,38,3.6,4,4,4,3,5,3,3,5,4,4,5,8,4,2,More clarity on promotion criteria would help.
+EMP0173,Sales,Delhi,Associate,Hybrid,Male,33,2.5,3,5,2,4,4,4,3,5,4,3,3,7,3,3,
+EMP0174,Customer Support,Pune,Associate,On-site,Male,38,9.6,3,4,2,3,3,1,4,4,2,3,2,5,6,2,Would like more learning opportunities.
+EMP0175,Sales,Pune,Team Lead,On-site,Male,39,5.0,3,3,2,4,3,3,4,4,3,2,3,5,10,3,My manager is supportive and approachable.
+EMP0176,Operations,Mumbai,Senior Associate,Hybrid,Female,34,1.5,3,4,3,3,4,2,4,5,3,5,5,7,6,3,Pay is below market for my role.
+EMP0177,Sales,Mumbai,Senior Manager,Hybrid,Male,29,3.5,5,5,4,4,5,3,4,3,3,3,4,10,4,3,"Great team, but too many meetings."
+EMP0178,Operations,Hyderabad,Associate,On-site,Male,32,0.3,3,3,4,3,3,3,4,2,4,3,4,6,12,3,Would like more learning opportunities.
+EMP0179,Operations,Hyderabad,Senior Associate,On-site,Male,37,7.4,4,4,3,3,3,3,4,5,3,4,5,7,3,3,
+EMP0180,Operations,Hyderabad,Associate,Remote,Female,24,5.3,4,4,3,4,4,3,4,5,5,3,4,7,2,4,Would like more learning opportunities.
+EMP0181,Technology,Mumbai,Associate,On-site,Male,47,7.6,3,5,4,2,1,4,3,3,3,3,5,9,5,3,My manager is supportive and approachable.
+EMP0182,Finance,Pune,Team Lead,Hybrid,Female,28,0.8,5,5,4,4,4,4,4,5,4,2,5,10,5,3,Pay is below market for my role.
+EMP0183,Technology,Mumbai,Associate,Hybrid,Prefer not to say,35,3.2,3,3,3,4,3,4,3,4,3,3,4,5,11,3,
+EMP0184,Operations,Hyderabad,Senior Associate,Hybrid,Male,29,7.1,3,5,2,4,3,5,2,4,4,4,3,5,2,2,
+EMP0185,Marketing,Bengaluru,Senior Associate,Remote,Male,45,8.3,5,5,5,4,3,3,3,5,3,4,5,10,5,3,Shift timings make work-life balance hard.
+EMP0186,Technology,Hyderabad,Team Lead,Remote,Female,39,7.3,4,3,3,4,3,4,3,5,5,3,4,9,5,4,More clarity on promotion criteria would help.
+EMP0187,Customer Support,Bengaluru,Team Lead,Hybrid,Male,26,1.1,4,3,4,3,2,2,4,4,4,2,5,7,8,3,Leadership communication has improved.
+EMP0188,Sales,Hyderabad,Senior Associate,On-site,Female,32,5.7,5,4,3,3,4,4,3,5,5,4,3,10,4,4,Leadership communication has improved.
+EMP0189,Sales,Delhi,Team Lead,On-site,Female,37,4.0,3,5,3,3,2,3,4,3,3,4,5,6,6,4,
+EMP0190,Sales,Delhi,Senior Associate,On-site,Female,28,4.5,4,4,3,3,4,4,3,3,4,4,3,8,8,3,Leadership communication has improved.
+EMP0191,Customer Support,Pune,Team Lead,Hybrid,Female,29,0.9,3,4,3,4,3,3,3,4,4,3,4,8,7,2,Would like more learning opportunities.
+EMP0192,Operations,Bengaluru,Senior Associate,On-site,Male,33,5.0,3,3,4,3,2,4,4,4,3,3,4,4,9,3,Workload has been very high this quarter.
+EMP0193,Finance,Delhi,Manager,Hybrid,Female,34,4.3,4,4,4,2,3,2,5,5,3,3,5,8,4,4,
+EMP0194,Sales,Hyderabad,Associate,Remote,Female,22,6.3,4,4,4,3,5,4,3,4,3,3,5,10,1,3,
+EMP0195,Sales,Mumbai,Senior Associate,On-site,Male,27,7.6,4,5,4,4,3,4,3,3,4,3,5,9,7,3,Would like more learning opportunities.
+EMP0196,Customer Support,Bengaluru,Associate,Hybrid,Male,40,3.8,4,4,5,3,3,3,4,5,3,3,3,8,0,4,Workload has been very high this quarter.
+EMP0197,Customer Support,Hyderabad,Senior Manager,Hybrid,Male,41,0.9,3,3,2,3,2,4,3,4,3,3,5,7,7,4,
+EMP0198,Sales,Delhi,Associate,On-site,Male,44,37.4,5,4,2,5,4,3,3,3,4,2,5,7,4,4,More clarity on promotion criteria would help.
+EMP0199,Technology,Pune,Senior Associate,Remote,Male,37,20.2,4,4,3,2,5,3,2,5,3,4,5,6,4,2,Leadership communication has improved.
+EMP0200,Finance,Bengaluru,Associate,On-site,Female,38,5.0,4,3,4,4,4,3,4,3,4,3,3,9,5,3,"Great team, but too many meetings."
+EMP0201,Operations,Hyderabad,Associate,On-site,Female,36,0.9,1,2,3,3,1,2,4,4,3,4,3,5,14,4,
+EMP0202,Customer Support,Pune,Senior Manager,On-site,Female,29,3.2,4,5,4,4,3,4,2,3,3,2,4,8,6,3,Would like more learning opportunities.
+EMP0203,Sales,Pune,Manager,Hybrid,Male,34,1.6,4,3,4,3,3,4,2,5,5,2,4,6,7,3,Pay is below market for my role.
+EMP0204,Finance,Pune,Team Lead,On-site,Male,31,4.1,4,4,4,3,3,2,3,3,3,3,4,9,5,4,More clarity on promotion criteria would help.
+EMP0205,Technology,Bengaluru,Team Lead,Hybrid,Male,36,8.3,5,5,3,3,3,4,4,4,3,3,5,10,4,3,Pay is below market for my role.
+EMP0206,Sales,Delhi,Associate,Hybrid,Male,31,4.0,4,4,3,4,4,3,4,3,4,4,4,8,6,4,
+EMP0207,Technology,Mumbai,Senior Associate,Hybrid,Male,34,3.6,3,3,3,4,3,3,4,4,1,5,5,9,7,3,My manager is supportive and approachable.
+EMP0208,Operations,Hyderabad,Senior Associate,On-site,Female,28,1.5,3,3,3,2,3,3,3,4,3,2,5,7,6,4,"Great team, but too many meetings."
+EMP0209,Customer Support,Delhi,Team Lead,Hybrid,Male,27,1.9,1,4,4,3,1,2,3,4,4,3,4,1,11,3,
+EMP0210,Customer Support,Bengaluru,Senior Associate,Hybrid,Female,36,9.8,4,4,5,3,3,1,4,3,3,2,4,7,5,4,Pay is below market for my role.
+EMP0211,Technology,Bengaluru,Associate,On-site,Male,48,10.0,3,4,3,4,3,4,5,4,4,4,4,8,8,4,Leadership communication has improved.
+EMP0212,Customer Support,Bengaluru,Associate,On-site,Male,41,1.2,2,3,4,3,3,3,3,2,3,3,4,7,6,2,Workload has been very high this quarter.
+EMP0213,Operations,Delhi,Senior Manager,On-site,Male,46,2.2,1,3,1,4,2,3,3,5,3,3,3,2,10,1,Would like more learning opportunities.
+EMP0214,Operations,Delhi,Associate,Hybrid,Prefer not to say,26,1.2,4,3,1,5,4,2,3,4,4,3,3,9,4,2,Shift timings make work-life balance hard.
+EMP0215,Customer Support,Mumbai,Manager,Hybrid,Female,34,4.3,3,3,3,3,4,2,3,2,4,3,5,6,13,2,Would like more learning opportunities.
+EMP0216,Technology,Pune,Team Lead,Remote,Prefer not to say,39,6.2,5,5,3,5,4,4,4,4,4,5,5,10,1,4,
+EMP0217,Sales,Bengaluru,Team Lead,Hybrid,Male,35,5.6,4,3,4,4,5,3,4,5,4,3,4,7,2,2,
+EMP0218,Customer Support,Mumbai,Associate,Hybrid,Male,30,1.9,2,3,3,3,1,1,4,3,4,4,3,6,6,3,Leadership communication has improved.
+EMP0219,Marketing,Mumbai,Senior Associate,On-site,Male,39,2.4,5,5,4,3,3,4,4,3,4,3,4,9,2,4,
+EMP0220,Customer Support,Pune,Senior Associate,Hybrid,Male,30,4.7,2,3,1,3,3,2,3,4,3,3,3,6,8,3,
+EMP0221,Marketing,Mumbai,Senior Associate,Remote,Male,34,7.2,3,4,4,4,3,4,4,4,2,3,5,6,6,3,
+EMP0222,Technology,Bengaluru,Team Lead,Hybrid,Male,31,3.6,4,4,3,4,3,3,4,4,4,5,4,10,5,3,
+EMP0223,Human Resources,Bengaluru,Manager,Hybrid,Prefer not to say,38,3.1,5,4,5,3,4,4,4,3,4,3,4,8,6,3,Workload has been very high this quarter.
+EMP0224,Technology,Bengaluru,Senior Associate,Hybrid,Male,24,1.3,5,5,4,5,4,4,4,4,3,3,4,9,5,5,Shift timings make work-life balance hard.
+EMP0225,Sales,Mumbai,Team Lead,On-site,Male,32,3.2,4,4,4,3,3,3,4,5,4,4,5,7,4,3,
+EMP0226,Customer Support,Pune,Team Lead,On-site,Male,27,4.2,2,4,4,4,3,2,2,3,5,4,4,6,7,2,
+EMP0227,Technology,Pune,Manager,Hybrid,Female,33,10.3,4,3,3,4,4,4,5,2,4,3,4,8,1,4,
+EMP0228,Operations,Hyderabad,Senior Associate,On-site,Female,38,8.4,2,3,3,2,3,3,2,3,3,2,3,4,6,2,Pay is below market for my role.
+EMP0229,Human Resources,Bengaluru,Associate,Hybrid,Female,38,10.6,4,4,3,4,4,3,4,3,3,5,4,6,7,3,My manager is supportive and approachable.
+EMP0230,Technology,Hyderabad,Senior Associate,Hybrid,Female,32,12.1,2,3,4,3,4,3,3,3,3,2,4,5,8,3,Shift timings make work-life balance hard.
+EMP0231,Technology,Bengaluru,Associate,Hybrid,Male,40,5.6,3,3,4,4,4,4,4,4,5,4,4,4,7,2,Workload has been very high this quarter.
+EMP0232,Sales,Delhi,Manager,Remote,Female,39,3.6,4,3,3,3,4,3,4,4,3,4,3,8,0,3,More clarity on promotion criteria would help.
+EMP0233,Technology,Mumbai,Manager,Hybrid,Male,25,1.0,4,5,4,4,3,4,4,5,5,4,4,8,1,4,
+EMP0234,Sales,Pune,Associate,Hybrid,Male,34,5.5,3,4,4,4,4,4,3,4,5,3,5,7,4,3,
+EMP0235,Operations,Pune,Senior Manager,Hybrid,Male,25,0.8,4,4,3,3,3,3,3,4,4,4,3,10,9,4,Pay is below market for my role.
+EMP0236,Marketing,Mumbai,Associate,Hybrid,Female,31,3.5,4,4,4,3,4,3,3,4,2,3,4,10,5,4,Shift timings make work-life balance hard.
+EMP0237,Customer Support,Mumbai,Associate,Hybrid,Female,29,1.2,1,2,3,1,2,3,2,4,5,3,3,4,10,2,Shift timings make work-life balance hard.
+EMP0238,Operations,Mumbai,Associate,Remote,Male,37,8.8,3,3,2,4,2,2,4,5,5,2,4,7,8,3,
+EMP0239,Sales,Bengaluru,Senior Associate,On-site,Female,29,3.9,3,4,4,3,2,2,4,4,2,4,5,8,6,3,Workload has been very high this quarter.
+EMP0240,Sales,Pune,Team Lead,On-site,Male,38,24.2,5,5,4,4,3,3,4,4,3,2,4,10,7,5,More clarity on promotion criteria would help.
+EMP0241,Customer Support,Pune,Team Lead,Hybrid,Male,31,11.0,3,4,2,3,3,3,3,4,3,4,4,9,8,4,More clarity on promotion criteria would help.
+EMP0242,Customer Support,Bengaluru,Associate,Hybrid,Female,34,4.4,3,4,3,3,5,3,4,4,4,2,4,6,5,4,Would like more learning opportunities.
+EMP0243,Operations,Delhi,Senior Manager,On-site,Male,29,3.8,3,3,3,2,2,3,3,4,5,4,4,7,9,5,
+EMP0244,Sales,Mumbai,Associate,Hybrid,Male,36,2.0,2,3,3,4,2,3,3,5,3,2,4,5,5,2,"Great team, but too many meetings."
+EMP0245,Sales,Hyderabad,Associate,Hybrid,Male,35,5.7,3,3,3,3,3,4,2,4,3,3,3,10,9,4,More clarity on promotion criteria would help.
+EMP0246,Sales,Delhi,Associate,Hybrid,Male,40,8.6,4,4,3,3,4,2,4,4,3,2,4,8,3,3,Shift timings make work-life balance hard.
+EMP0247,Operations,Pune,Manager,Hybrid,Male,38,4.4,4,4,5,4,3,3,4,4,3,3,4,7,6,3,Pay is below market for my role.
+EMP0248,Marketing,Hyderabad,Senior Associate,Hybrid,Female,42,10.4,4,3,4,4,2,4,4,5,4,3,5,10,6,3,Leadership communication has improved.
+EMP0249,Finance,Pune,Manager,On-site,Male,41,3.7,5,5,4,2,4,4,4,5,3,3,4,10,2,3,Leadership communication has improved.
+EMP0250,Human Resources,Mumbai,Senior Associate,Hybrid,Female,33,1.3,5,4,4,4,5,3,4,4,4,3,2,10,5,2,Leadership communication has improved.
+EMP0251,Sales,Hyderabad,Team Lead,On-site,Male,26,2.8,5,4,4,3,4,3,3,3,4,3,4,8,2,3,
+EMP0252,Operations,Pune,Senior Manager,Remote,Female,37,3.7,4,4,5,4,2,4,3,4,3,3,4,9,8,3,My manager is supportive and approachable.
+EMP0253,Sales,Hyderabad,Senior Associate,Hybrid,Female,21,2.5,5,4,3,5,4,4,5,5,3,4,5,10,2,5,My manager is supportive and approachable.
+EMP0254,Customer Support,Mumbai,Associate,On-site,Male,23,1.0,1,2,3,3,1,3,3,4,2,4,3,4,11,4,Leadership communication has improved.
+EMP0255,Technology,Pune,Manager,Hybrid,Female,45,6.5,5,5,4,3,4,5,4,5,4,3,5,10,0,4,
+EMP0256,Operations,Pune,Associate,Hybrid,Male,24,1.8,3,2,4,3,2,2,5,3,3,3,4,6,3,2,
+EMP0257,Customer Support,Pune,Associate,Hybrid,Male,26,1.8,4,3,4,3,3,4,2,5,5,2,4,8,3,4,
+EMP0258,Operations,Mumbai,Senior Associate,On-site,Female,36,9.3,3,3,4,3,2,3,3,3,4,4,3,7,8,3,Pay is below market for my role.
+EMP0259,Customer Support,Pune,Team Lead,Hybrid,Male,33,7.5,4,4,5,4,3,3,4,4,4,2,5,9,3,4,
+EMP0260,Customer Support,Delhi,Senior Associate,Hybrid,Female,41,1.2,4,5,3,3,3,3,3,4,3,3,3,9,2,3,
+EMP0261,Sales,Mumbai,Senior Associate,Hybrid,Female,31,5.9,3,3,3,3,4,2,4,4,5,3,4,8,8,2,Shift timings make work-life balance hard.
+EMP0262,Human Resources,Bengaluru,Senior Associate,On-site,Female,29,1.0,3,3,3,4,3,2,4,3,3,3,5,6,7,3,Leadership communication has improved.
+EMP0263,Finance,Bengaluru,Senior Associate,Hybrid,Male,38,3.4,4,5,4,3,3,3,3,3,3,4,4,8,2,3,More clarity on promotion criteria would help.
+EMP0264,Operations,Pune,Senior Associate,Hybrid,Male,31,5.9,3,3,2,4,2,2,4,5,3,3,4,6,6,2,Shift timings make work-life balance hard.
+EMP0265,Human Resources,Delhi,Associate,Hybrid,Male,37,5.1,4,3,2,5,2,4,2,4,4,4,4,5,7,3,
+EMP0266,Operations,Hyderabad,Associate,Hybrid,Female,25,3.5,4,4,4,3,3,3,3,4,3,2,3,10,3,3,Would like more learning opportunities.
+EMP0267,Technology,Pune,Senior Associate,Hybrid,Male,33,4.4,3,3,2,4,3,3,5,5,3,4,3,9,4,4,My manager is supportive and approachable.
+EMP0268,Finance,Pune,Senior Associate,On-site,Male,38,3.8,5,5,3,5,4,4,3,4,4,3,3,10,6,3,"Great team, but too many meetings."
+EMP0269,Sales,Bengaluru,Senior Manager,On-site,Male,31,5.6,3,5,3,2,5,4,3,3,3,4,4,8,5,2,"Great team, but too many meetings."
+EMP0270,Sales,Pune,Associate,On-site,Female,29,2.9,2,4,2,5,3,3,3,3,5,3,4,4,10,3,My manager is supportive and approachable.
+EMP0271,Technology,Delhi,Associate,Hybrid,Male,31,3.7,4,5,3,3,4,2,4,5,3,2,5,8,5,3,
+EMP0272,Customer Support,Bengaluru,Associate,Hybrid,Male,25,1.4,2,3,3,3,3,2,3,2,4,3,5,3,9,2,
+EMP0273,Operations,Mumbai,Senior Associate,On-site,Male,38,12.7,5,4,3,3,5,3,4,4,3,3,4,10,2,4,My manager is supportive and approachable.
+EMP0274,Operations,Delhi,Associate,On-site,Female,38,3.2,3,4,2,3,3,3,3,4,4,3,3,6,7,4,
+EMP0275,Technology,Hyderabad,Senior Associate,Hybrid,Female,26,2.9,3,3,4,2,3,3,3,4,4,2,4,9,6,3,More clarity on promotion criteria would help.
+EMP0276,Finance,Bengaluru,Team Lead,Hybrid,Male,25,2.4,5,4,3,5,4,3,4,4,3,3,4,10,4,3,"Great team, but too many meetings."
+EMP0277,Human Resources,Pune,Senior Associate,Hybrid,Male,34,4.5,4,4,4,5,3,3,3,5,3,3,3,8,1,4,Shift timings make work-life balance hard.
+EMP0278,Customer Support,Pune,Team Lead,Hybrid,Male,31,4.8,2,4,4,3,2,3,4,4,4,3,3,4,8,2,Pay is below market for my role.
+EMP0279,Technology,Mumbai,Manager,On-site,Male,35,1.4,5,3,4,4,4,5,4,4,5,4,4,10,5,4,My manager is supportive and approachable.
+EMP0280,Technology,Hyderabad,Associate,Hybrid,Female,31,7.2,5,5,5,3,3,3,3,2,4,2,2,8,7,3,More clarity on promotion criteria would help.
+EMP0281,Operations,Delhi,Associate,On-site,Male,32,2.7,3,3,4,2,3,3,3,4,4,4,4,7,4,3,Leadership communication has improved.
+EMP0282,Marketing,Mumbai,Associate,On-site,Female,41,5.6,4,4,2,3,3,3,4,4,3,5,5,9,4,4,Shift timings make work-life balance hard.
+EMP0283,Finance,Hyderabad,Associate,On-site,Female,32,10.1,4,5,4,4,4,5,3,4,5,2,4,7,6,3,
+EMP0284,Marketing,Delhi,Manager,Hybrid,Male,33,2.6,5,5,2,4,5,4,4,4,5,3,4,10,2,4,
+EMP0285,Customer Support,Delhi,Associate,On-site,Female,34,11.8,3,5,3,4,2,3,3,4,3,1,4,5,8,3,Pay is below market for my role.
+EMP0286,Technology,Delhi,Manager,On-site,Male,31,1.1,5,3,4,3,5,5,3,4,3,2,3,9,1,4,Pay is below market for my role.
+EMP0287,Sales,Bengaluru,Team Lead,On-site,Female,27,1.4,4,4,4,5,5,4,4,5,3,2,5,10,4,3,Pay is below market for my role.
+EMP0288,Finance,Bengaluru,Senior Associate,On-site,Female,25,1.5,3,4,2,4,3,4,5,4,3,2,3,6,6,3,Workload has been very high this quarter.
+EMP0289,Customer Support,Hyderabad,Associate,Hybrid,Male,38,1.6,2,3,4,4,3,2,4,3,3,5,4,6,6,3,
+EMP0290,Marketing,Hyderabad,Manager,Remote,Female,32,2.8,5,4,4,5,3,3,4,5,3,1,4,10,1,4,Leadership communication has improved.
+EMP0291,Marketing,Delhi,Associate,Hybrid,Male,28,5.7,2,3,2,5,2,4,3,4,3,3,4,3,8,3,
+EMP0292,Technology,Pune,Senior Associate,On-site,Female,40,35.5,4,4,4,4,2,3,4,3,5,1,4,10,6,4,More clarity on promotion criteria would help.
+EMP0293,Operations,Pune,Manager,On-site,Female,36,9.4,4,3,4,5,5,3,4,3,3,3,4,10,6,3,
+EMP0294,Operations,Delhi,Associate,On-site,Female,36,4.5,2,3,2,2,3,2,3,3,5,3,3,4,9,2,
+EMP0295,Marketing,Mumbai,Team Lead,Remote,Male,21,3.3,5,4,2,4,3,4,3,3,5,3,3,10,4,4,Leadership communication has improved.
+EMP0296,Customer Support,Delhi,Associate,Hybrid,Female,44,10.8,2,4,3,3,1,3,3,3,3,2,4,4,8,3,"Great team, but too many meetings."
+EMP0297,Operations,Hyderabad,Senior Associate,Hybrid,Male,40,10.8,3,3,2,5,2,2,5,4,4,3,4,7,5,4,My manager is supportive and approachable.
+EMP0298,Customer Support,Bengaluru,Team Lead,On-site,Female,30,1.1,2,4,3,3,3,1,3,4,3,4,4,4,7,2,Pay is below market for my role.
+EMP0299,Operations,Hyderabad,Associate,On-site,Male,35,1.1,2,2,2,4,2,2,3,5,4,4,4,6,6,3,My manager is supportive and approachable.
+EMP0300,Finance,Pune,Manager,Hybrid,Male,38,0.8,5,5,4,4,5,3,4,4,4,4,5,10,4,3,Pay is below market for my role.
+EMP0301,Technology,Mumbai,Team Lead,Hybrid,Prefer not to say,33,2.8,3,3,3,4,4,4,4,4,4,2,3,7,7,3,Pay is below market for my role.
+EMP0302,Sales,Pune,Team Lead,On-site,Male,26,1.4,3,3,4,3,3,1,3,3,4,3,4,5,8,3,"Great team, but too many meetings."
+EMP0303,Sales,Mumbai,Associate,On-site,Female,28,2.5,2,4,4,3,3,2,4,4,3,3,5,4,3,3,
+EMP0304,Sales,Pune,Associate,Hybrid,Female,26,0.6,3,3,3,3,3,4,4,4,3,3,4,7,1,3,Shift timings make work-life balance hard.
+EMP0305,Customer Support,Delhi,Team Lead,On-site,Male,48,20.4,4,4,3,4,2,3,4,5,2,3,3,3,5,3,Would like more learning opportunities.
+EMP0306,Sales,Pune,Senior Associate,Hybrid,Male,38,1.5,3,4,3,5,2,2,2,3,4,3,3,4,4,2,More clarity on promotion criteria would help.
+EMP0307,Technology,Bengaluru,Senior Associate,On-site,Male,36,2.8,4,3,3,4,4,4,4,4,3,4,3,6,3,3,
+EMP0308,Human Resources,Mumbai,Associate,Remote,Female,28,1.1,3,4,2,5,3,2,3,4,4,3,5,5,8,3,Shift timings make work-life balance hard.
+EMP0309,Customer Support,Pune,Associate,Remote,Male,27,1.5,1,3,3,3,2,2,3,4,4,4,3,1,9,3,
+EMP0310,Technology,Delhi,Associate,On-site,Male,47,6.7,3,5,3,5,1,5,4,4,3,4,4,8,6,3,Workload has been very high this quarter.
+EMP0311,Human Resources,Pune,Team Lead,Hybrid,Female,34,1.1,3,4,3,4,5,4,3,4,3,4,5,6,6,4,Would like more learning opportunities.
+EMP0312,Sales,Hyderabad,Manager,Hybrid,Female,32,6.5,4,4,4,4,3,3,3,3,4,3,4,7,3,3,More clarity on promotion criteria would help.
+EMP0313,Operations,Bengaluru,Associate,Hybrid,Female,35,6.5,3,3,2,3,3,3,3,3,2,2,5,7,9,2,Workload has been very high this quarter.
+EMP0314,Customer Support,Pune,Senior Associate,On-site,Female,32,4.7,4,5,4,2,3,2,5,3,4,4,4,7,3,3,Leadership communication has improved.
+EMP0315,Finance,Delhi,Senior Associate,Remote,Male,33,2.0,4,5,5,5,3,3,3,4,4,3,5,6,5,3,
+EMP0316,Customer Support,Hyderabad,Senior Associate,On-site,Female,32,2.8,4,4,3,4,4,4,4,2,4,3,4,8,7,4,Shift timings make work-life balance hard.
+EMP0317,Technology,Hyderabad,Senior Associate,Hybrid,Female,26,1.9,5,5,3,3,5,5,3,4,3,3,4,10,4,4,
+EMP0318,Marketing,Bengaluru,Manager,On-site,Female,39,4.7,5,4,4,4,3,4,3,4,3,3,5,10,4,5,Workload has been very high this quarter.
+EMP0319,Sales,Mumbai,Associate,Hybrid,Male,33,1.2,4,5,2,3,4,4,3,5,5,4,4,10,6,5,More clarity on promotion criteria would help.
+EMP0320,Sales,Delhi,Manager,Hybrid,Female,37,1.6,3,3,3,4,3,2,2,3,4,3,5,7,6,3,"Great team, but too many meetings."
+EMP0321,Technology,Delhi,Associate,Hybrid,Female,36,5.5,4,4,3,3,3,4,5,5,3,2,4,7,4,3,Would like more learning opportunities.
+EMP0322,Technology,Mumbai,Senior Associate,On-site,Male,37,8.6,2,4,2,1,3,2,4,4,2,4,3,2,6,2,Leadership communication has improved.
+EMP0323,Finance,Bengaluru,Senior Associate,Remote,Female,38,1.3,5,5,4,5,4,5,4,4,4,4,4,9,1,3,Shift timings make work-life balance hard.
+EMP0324,Operations,Bengaluru,Senior Manager,On-site,Male,32,3.2,2,2,3,3,3,2,3,3,3,3,4,6,8,2,Would like more learning opportunities.
+EMP0325,Sales,Mumbai,Senior Associate,On-site,Female,27,3.3,4,5,3,3,4,3,4,4,3,3,3,9,6,4,Shift timings make work-life balance hard.
+EMP0326,Customer Support,Bengaluru,Associate,Remote,Male,35,3.3,2,3,2,3,3,2,2,4,4,4,4,3,10,2,My manager is supportive and approachable.
+EMP0327,Operations,Pune,Team Lead,Hybrid,Female,32,1.5,4,4,3,4,4,3,3,4,4,2,3,9,5,3,Pay is below market for my role.
+EMP0328,Operations,Bengaluru,Associate,Hybrid,Female,33,3.0,4,3,4,4,2,2,4,4,4,4,3,6,5,3,
+EMP0329,Operations,Bengaluru,Team Lead,Hybrid,Female,29,4.6,4,3,4,5,4,4,4,5,3,2,3,8,8,4,
+EMP0330,Operations,Delhi,Associate,Hybrid,Male,36,3.2,4,4,3,3,2,3,3,4,4,3,4,10,4,3,
+EMP0331,Operations,Hyderabad,Associate,On-site,Female,34,2.6,2,3,3,4,3,2,4,4,3,3,4,6,8,3,Shift timings make work-life balance hard.
+EMP0332,Human Resources,Bengaluru,Manager,Hybrid,Male,47,10.5,5,5,3,3,4,3,3,5,4,3,5,10,3,3,
+EMP0333,Customer Support,Hyderabad,Senior Associate,Hybrid,Male,44,1.5,4,5,3,3,5,3,3,3,4,2,3,10,3,4,Leadership communication has improved.
+EMP0334,Operations,Mumbai,Associate,Remote,Female,32,4.6,4,4,4,4,4,4,3,4,3,4,3,8,5,3,Workload has been very high this quarter.
+EMP0335,Sales,Bengaluru,Team Lead,Hybrid,Female,28,3.5,4,2,3,4,3,4,3,3,5,2,5,8,2,4,
+EMP0336,Customer Support,Bengaluru,Associate,Hybrid,Male,28,2.4,3,3,3,5,4,3,3,5,5,3,3,7,10,4,
+EMP0337,Marketing,Bengaluru,Team Lead,Remote,Male,33,4.5,4,3,4,5,3,4,5,4,4,3,4,4,5,4,My manager is supportive and approachable.
+EMP0338,Sales,Delhi,Senior Associate,Hybrid,Male,32,2.3,5,5,5,4,4,3,4,3,5,2,5,10,3,4,
+EMP0339,Marketing,Bengaluru,Manager,Hybrid,Female,43,18.3,5,5,4,5,4,3,4,5,4,4,3,9,0,5,More clarity on promotion criteria would help.
+EMP0340,Finance,Mumbai,Associate,Hybrid,Female,41,1.7,4,4,3,3,5,3,4,3,4,2,4,8,3,4,Workload has been very high this quarter.
+EMP0341,Sales,Bengaluru,Associate,Hybrid,Female,29,0.5,5,4,5,3,4,4,3,4,4,3,4,10,0,4,"Great team, but too many meetings."
+EMP0342,Operations,Bengaluru,Team Lead,Hybrid,Male,35,5.6,5,5,3,3,3,4,4,5,3,3,4,10,3,3,My manager is supportive and approachable.
+EMP0343,Sales,Bengaluru,Senior Associate,Remote,Female,29,2.0,4,5,3,3,5,4,4,3,5,4,3,9,9,3,Shift timings make work-life balance hard.
+EMP0344,Operations,Hyderabad,Manager,Remote,Male,29,2.4,3,4,3,3,4,3,4,4,3,3,4,8,7,3,Leadership communication has improved.
+EMP0345,Operations,Pune,Senior Associate,On-site,Female,37,4.4,2,3,2,3,2,2,5,3,4,3,4,5,3,3,
+EMP0346,Finance,Delhi,Manager,Hybrid,Female,29,1.5,4,4,4,3,4,4,4,4,4,3,3,8,1,3,
+EMP0347,Marketing,Bengaluru,Senior Manager,On-site,Female,30,0.9,3,4,2,4,3,3,4,4,5,3,4,8,3,3,
+EMP0348,Human Resources,Pune,Manager,On-site,Male,33,2.2,5,4,5,3,4,5,3,5,4,4,4,10,3,3,"Great team, but too many meetings."
+EMP0349,Operations,Mumbai,Associate,Hybrid,Male,40,11.4,2,3,3,3,2,2,4,4,4,3,4,4,6,3,Would like more learning opportunities.
+EMP0350,Operations,Hyderabad,Associate,On-site,Male,35,3.6,3,4,2,3,3,1,4,3,4,1,4,4,3,1,"Great team, but too many meetings."
+EMP0351,Customer Support,Bengaluru,Associate,On-site,Male,38,6.0,3,5,3,4,2,3,3,5,4,3,5,6,7,2,Workload has been very high this quarter.
+EMP0352,Technology,Bengaluru,Senior Associate,On-site,Female,25,1.6,4,5,4,3,3,4,4,4,3,3,4,10,6,3,Would like more learning opportunities.
+EMP0353,Technology,Mumbai,Senior Associate,On-site,Male,30,1.2,4,3,3,4,3,4,4,5,4,5,4,8,5,4,Would like more learning opportunities.
+EMP0354,Operations,Mumbai,Manager,Hybrid,Male,29,3.8,2,2,3,3,2,3,4,3,4,3,3,3,8,2,Leadership communication has improved.
+EMP0355,Operations,Pune,Associate,On-site,Male,28,1.4,3,4,2,2,3,3,4,4,4,3,5,6,4,3,Would like more learning opportunities.
+EMP0356,Human Resources,Bengaluru,Senior Associate,Hybrid,Male,28,3.7,3,4,4,3,3,2,4,4,4,4,4,6,5,3,
+EMP0357,Operations,Pune,Associate,On-site,Female,37,14.3,2,3,2,3,3,2,3,4,3,4,2,8,8,1,
+EMP0358,Technology,Bengaluru,Associate,Remote,Male,27,1.9,4,4,3,4,4,3,3,3,3,4,4,6,2,4,
+EMP0359,Operations,Delhi,Associate,Hybrid,Male,29,1.7,3,4,3,4,3,2,3,3,3,3,4,6,6,1,
+EMP0360,Operations,Hyderabad,Senior Associate,Hybrid,Female,30,1.1,1,4,3,2,2,2,2,3,3,2,5,5,9,3,"Great team, but too many meetings."
+EMP0361,Finance,Mumbai,Associate,On-site,Male,27,5.7,4,4,3,5,3,4,2,3,5,4,4,9,5,3,"Great team, but too many meetings."
+EMP0362,Technology,Delhi,Team Lead,On-site,Male,27,1.1,4,5,2,4,4,3,5,5,3,3,5,9,4,5,My manager is supportive and approachable.
+EMP0363,Technology,Pune,Associate,Remote,Male,31,6.7,5,5,4,4,5,3,4,4,5,3,5,10,6,3,Would like more learning opportunities.
+EMP0364,Customer Support,Pune,Associate,Remote,Female,28,4.0,5,5,5,3,3,3,2,4,2,3,2,10,5,3,
+EMP0365,Customer Support,Pune,Senior Associate,Hybrid,Male,28,2.3,3,3,4,3,3,1,3,4,4,3,4,6,6,4,Would like more learning opportunities.
+EMP0366,Customer Support,Delhi,Senior Associate,On-site,Male,26,2.4,4,4,4,5,3,3,4,3,3,4,4,8,5,3,Would like more learning opportunities.
+EMP0367,Marketing,Delhi,Associate,Remote,Prefer not to say,34,4.4,5,4,4,3,4,5,4,5,3,3,3,10,1,3,
+EMP0368,Customer Support,Pune,Associate,On-site,Female,21,0.9,2,3,4,4,3,3,4,4,3,3,4,1,10,4,
+EMP0369,Customer Support,Bengaluru,Senior Associate,Hybrid,Female,32,1.5,3,4,3,4,4,2,4,5,3,3,3,6,7,3,My manager is supportive and approachable.
+EMP0370,Sales,Pune,Manager,Remote,Male,32,7.1,4,4,5,4,2,4,4,4,3,2,5,8,5,4,
+EMP0371,Marketing,Pune,Associate,Hybrid,Prefer not to say,33,0.6,5,4,3,3,5,5,4,5,5,4,4,10,3,3,Workload has been very high this quarter.
+EMP0372,Technology,Hyderabad,Senior Associate,Hybrid,Female,31,5.9,5,3,4,3,3,4,4,4,3,3,5,8,6,5,Shift timings make work-life balance hard.
+EMP0373,Customer Support,Hyderabad,Senior Associate,On-site,Female,36,7.4,2,4,3,2,4,2,2,2,4,3,5,6,4,4,
+EMP0374,Sales,Mumbai,Senior Associate,On-site,Male,35,1.7,3,3,3,4,5,3,3,4,3,3,4,7,4,3,
+EMP0375,Technology,Pune,Senior Associate,On-site,Female,34,13.1,4,2,3,3,4,4,4,5,4,2,5,10,8,3,Would like more learning opportunities.
+EMP0376,Operations,Bengaluru,Senior Manager,On-site,Female,43,1.6,3,3,2,4,4,3,5,4,3,4,4,6,7,3,More clarity on promotion criteria would help.
+EMP0377,Technology,Bengaluru,Senior Manager,Remote,Female,36,4.8,3,4,3,4,3,3,3,3,3,3,4,6,6,1,
+EMP0378,Operations,Hyderabad,Senior Associate,Hybrid,Male,38,9.3,4,5,3,4,3,2,4,4,3,3,5,8,4,3,My manager is supportive and approachable.
+EMP0379,Marketing,Delhi,Manager,On-site,Male,28,6.9,4,5,2,4,2,2,4,3,3,3,4,10,3,3,
+EMP0380,Operations,Hyderabad,Senior Associate,Hybrid,Female,33,3.4,3,4,3,3,3,3,2,4,4,3,4,6,7,3,Would like more learning opportunities.
+EMP0381,Sales,Pune,Team Lead,Remote,Male,28,34.7,3,5,4,3,3,4,4,4,3,2,4,8,4,4,Would like more learning opportunities.
+EMP0382,Technology,Hyderabad,Team Lead,Remote,Male,23,1.7,3,3,3,3,3,5,2,3,5,2,3,8,6,2,Shift timings make work-life balance hard.
+EMP0383,Sales,Bengaluru,Team Lead,On-site,Male,30,4.4,2,2,1,4,3,1,3,4,5,2,3,2,10,2,Would like more learning opportunities.
+EMP0384,Customer Support,Hyderabad,Senior Associate,On-site,Female,35,3.5,2,2,3,2,3,2,4,4,2,3,4,2,8,3,My manager is supportive and approachable.
+EMP0385,Operations,Mumbai,Associate,On-site,Male,34,2.5,4,3,5,4,1,4,3,5,3,3,4,7,5,2,Pay is below market for my role.
+EMP0386,Marketing,Bengaluru,Team Lead,Hybrid,Male,34,1.3,5,5,3,4,3,3,5,3,4,4,4,10,2,3,
+EMP0387,Operations,Pune,Senior Associate,On-site,Male,35,3.3,1,3,2,3,3,3,3,4,4,3,3,6,8,3,Shift timings make work-life balance hard.
+EMP0388,Sales,Bengaluru,Senior Manager,Hybrid,Male,34,0.6,5,3,3,4,5,4,4,4,4,2,4,8,6,3,"Great team, but too many meetings."
+EMP0389,Operations,Mumbai,Senior Associate,Hybrid,Female,30,2.9,3,3,5,2,3,2,4,3,4,4,4,6,7,2,
+EMP0390,Customer Support,Delhi,Team Lead,On-site,Male,36,9.1,2,3,4,3,1,4,4,4,3,4,4,4,8,3,Would like more learning opportunities.
+EMP0391,Sales,Hyderabad,Senior Manager,Hybrid,Male,52,4.6,3,5,4,3,3,4,2,4,2,1,5,8,8,4,My manager is supportive and approachable.
+EMP0392,Customer Support,Pune,Team Lead,On-site,Female,39,4.1,3,3,3,4,3,3,2,3,3,3,4,6,8,4,"Great team, but too many meetings."
+EMP0393,Operations,Bengaluru,Associate,Remote,Female,42,7.3,4,3,5,3,3,2,3,4,3,4,3,7,5,3,Shift timings make work-life balance hard.
+EMP0394,Operations,Delhi,Team Lead,Remote,Female,33,2.2,3,3,3,2,3,2,3,3,3,3,4,5,8,3,Workload has been very high this quarter.
+EMP0395,Operations,Hyderabad,Team Lead,Hybrid,Female,34,1.8,3,3,3,3,1,3,4,4,3,3,4,6,8,4,Would like more learning opportunities.
+EMP0396,Finance,Mumbai,Manager,On-site,Male,39,14.2,4,2,5,3,4,4,4,5,3,4,5,8,6,3,Workload has been very high this quarter.
+EMP0397,Customer Support,Delhi,Associate,Remote,Male,40,8.2,2,4,3,3,3,3,3,3,3,2,5,6,4,1,
+EMP0398,Technology,Pune,Associate,On-site,Female,39,3.7,4,3,3,4,3,3,4,4,4,4,4,8,7,3,More clarity on promotion criteria would help.
+EMP0399,Technology,Bengaluru,Associate,On-site,Male,39,9.6,3,5,3,3,4,4,4,3,3,4,5,5,7,3,
+EMP0400,Technology,Bengaluru,Senior Associate,Hybrid,Male,22,3.1,4,4,4,4,3,4,4,3,3,3,4,9,6,4,
+EMP0401,Finance,Delhi,Senior Associate,Hybrid,Male,32,2.6,3,3,4,3,2,5,4,5,3,3,4,8,6,4,Would like more learning opportunities.
+EMP0402,Technology,Hyderabad,Manager,On-site,Female,33,4.5,4,3,3,4,3,2,4,3,2,3,5,9,5,3,My manager is supportive and approachable.
+EMP0403,Finance,Hyderabad,Team Lead,Hybrid,Male,29,4.1,4,5,4,3,2,5,3,5,3,4,3,8,5,2,My manager is supportive and approachable.
+EMP0404,Operations,Delhi,Senior Manager,On-site,Female,38,4.5,4,3,4,4,4,3,3,5,3,3,4,8,3,4,My manager is supportive and approachable.
+EMP0405,Customer Support,Pune,Senior Associate,On-site,Female,23,3.6,3,4,4,3,2,2,4,3,4,3,3,8,7,4,Workload has been very high this quarter.
+EMP0406,Technology,Mumbai,Associate,On-site,Female,27,1.4,5,4,3,3,5,4,3,3,4,3,5,9,0,3,More clarity on promotion criteria would help.
+EMP0407,Customer Support,Hyderabad,Senior Associate,Hybrid,Female,42,17.6,4,3,3,3,4,2,4,2,4,5,2,10,5,3,
+EMP0408,Customer Support,Pune,Associate,On-site,Male,34,1.1,2,4,3,3,2,2,2,3,3,4,3,6,9,3,
+EMP0409,Operations,Pune,Senior Associate,Hybrid,Female,33,2.3,4,4,3,3,3,3,3,4,3,5,3,9,5,3,Leadership communication has improved.
+EMP0410,Technology,Mumbai,Manager,Remote,Female,28,2.5,4,4,4,3,4,3,4,4,3,4,5,10,0,4,"Great team, but too many meetings."
+EMP0411,Operations,Pune,Associate,On-site,Female,35,4.2,3,3,4,3,4,4,2,4,3,2,4,5,6,3,More clarity on promotion criteria would help.
+EMP0412,Operations,Bengaluru,Associate,Hybrid,Female,28,1.8,3,3,3,4,4,3,3,3,3,4,4,9,5,3,Pay is below market for my role.
+EMP0413,Customer Support,Hyderabad,Associate,Hybrid,Female,33,12.7,3,2,3,2,3,3,3,4,3,3,3,6,2,3,"Great team, but too many meetings."
+EMP0414,Customer Support,Bengaluru,Team Lead,Hybrid,Female,35,7.1,5,2,4,4,3,4,4,4,4,2,4,10,4,5,
+EMP0415,Operations,Pune,Team Lead,On-site,Female,37,3.4,4,3,3,4,4,5,3,4,3,4,4,7,5,3,
+EMP0416,Finance,Hyderabad,Senior Associate,Hybrid,Female,40,8.6,5,4,4,4,5,4,4,3,4,5,3,9,6,4,
+EMP0417,Operations,Pune,Team Lead,On-site,Male,38,7.9,4,4,3,3,4,3,3,3,4,3,3,9,7,2,My manager is supportive and approachable.
+EMP0418,Technology,Bengaluru,Senior Associate,Hybrid,Female,28,1.6,5,5,4,4,3,4,2,5,3,3,5,10,8,4,Leadership communication has improved.
+EMP0419,Sales,Hyderabad,Associate,Hybrid,Female,36,4.0,4,3,3,4,3,4,3,2,4,3,4,8,7,3,Would like more learning opportunities.
+EMP0420,Customer Support,Delhi,Senior Associate,On-site,Female,42,9.1,3,3,3,3,3,1,4,4,4,3,4,6,2,3,
+EMP0421,Human Resources,Mumbai,Manager,Hybrid,Female,28,5.6,5,4,4,4,4,3,5,4,3,2,4,10,3,3,Would like more learning opportunities.
+EMP0422,Sales,Delhi,Associate,Hybrid,Male,27,1.7,3,5,2,4,4,2,2,3,3,4,4,6,8,3,Pay is below market for my role.
+EMP0423,Technology,Mumbai,Senior Associate,On-site,Female,29,3.3,5,4,1,2,4,3,4,5,4,4,4,9,3,3,
+EMP0424,Operations,Bengaluru,Associate,Hybrid,Female,38,5.8,1,4,2,2,2,3,4,4,2,3,3,6,12,2,
+EMP0425,Operations,Hyderabad,Team Lead,Hybrid,Male,36,2.0,1,3,3,4,2,2,1,3,2,3,3,6,9,1,
+EMP0426,Sales,Pune,Team Lead,Hybrid,Prefer not to say,34,6.9,5,2,4,3,3,5,5,4,4,3,3,10,0,5,
+EMP0427,Operations,Pune,Senior Associate,On-site,Female,29,0.8,3,4,2,2,5,2,3,3,3,2,4,8,10,3,Would like more learning opportunities.
+EMP0428,Technology,Hyderabad,Team Lead,Hybrid,Female,34,1.8,3,4,4,3,2,3,4,4,3,3,5,3,4,4,Leadership communication has improved.
+EMP0429,Customer Support,Mumbai,Team Lead,On-site,Male,36,1.7,2,1,4,3,2,2,4,4,4,3,4,3,8,3,Shift timings make work-life balance hard.
+EMP0430,Operations,Pune,Senior Associate,On-site,Female,35,1.3,3,4,2,4,1,4,3,2,4,3,4,8,9,3,
+EMP0431,Operations,Delhi,Team Lead,Hybrid,Male,35,4.3,3,4,2,3,3,1,4,4,4,3,5,8,5,4,Would like more learning opportunities.
+EMP0432,Technology,Bengaluru,Associate,Remote,Male,42,10.1,4,4,3,4,4,4,3,4,2,5,3,8,5,3,"Great team, but too many meetings."
+EMP0433,Marketing,Delhi,Associate,Hybrid,Female,21,1.4,4,3,4,3,4,2,3,4,4,3,3,10,3,5,My manager is supportive and approachable.
+EMP0434,Customer Support,Mumbai,Senior Associate,On-site,Female,35,3.4,5,4,4,4,4,3,4,3,4,2,4,10,3,4,Leadership communication has improved.
+EMP0435,Human Resources,Mumbai,Senior Manager,Hybrid,Male,26,1.0,4,4,3,4,4,4,5,3,3,4,4,9,4,3,My manager is supportive and approachable.
+EMP0436,Technology,Delhi,Senior Associate,On-site,Female,34,2.0,5,5,2,5,4,5,4,4,3,3,2,10,1,4,
+EMP0437,Technology,Delhi,Manager,On-site,Female,25,5.9,5,3,4,5,4,3,4,5,3,1,4,7,6,4,Would like more learning opportunities.
+EMP0438,Customer Support,Mumbai,Senior Associate,Hybrid,Male,36,4.2,2,3,1,4,3,3,2,4,3,3,2,4,7,1,Workload has been very high this quarter.
+EMP0439,Technology,Bengaluru,Senior Associate,Hybrid,Male,34,3.3,4,4,3,4,4,4,3,3,3,2,4,10,3,2,
+EMP0440,Finance,Delhi,Senior Associate,On-site,Female,25,3.8,3,3,3,3,3,3,3,3,4,3,5,7,6,3,
+EMP0441,Marketing,Hyderabad,Associate,Hybrid,Male,36,9.5,5,4,4,4,3,3,5,4,3,3,4,10,3,4,Would like more learning opportunities.
+EMP0442,Customer Support,Mumbai,Associate,On-site,Male,39,12.1,3,3,2,3,4,2,4,4,2,4,4,6,7,3,More clarity on promotion criteria would help.
+EMP0443,Sales,Bengaluru,Associate,Hybrid,Prefer not to say,30,2.4,3,3,3,3,3,3,5,4,4,3,2,6,4,4,"Great team, but too many meetings."
+EMP0444,Customer Support,Mumbai,Senior Associate,On-site,Female,42,7.4,4,2,5,4,3,3,5,4,3,2,5,7,9,3,Leadership communication has improved.
+EMP0445,Technology,Mumbai,Senior Associate,Hybrid,Male,29,1.5,4,5,3,4,4,4,3,3,3,3,5,9,5,4,
+EMP0446,Operations,Delhi,Senior Manager,On-site,Male,31,8.6,2,2,3,2,2,2,3,3,2,2,2,3,2,4,Leadership communication has improved.
+EMP0447,Customer Support,Pune,Team Lead,On-site,Male,41,7.3,3,4,3,5,2,4,3,4,3,2,3,9,5,2,
+EMP0448,Operations,Mumbai,Team Lead,Hybrid,Prefer not to say,44,3.5,4,5,3,3,2,3,4,5,5,4,4,7,10,2,Would like more learning opportunities.
+EMP0449,Marketing,Mumbai,Senior Associate,Hybrid,Male,29,2.2,5,5,4,3,3,5,5,4,4,4,4,10,6,3,
+EMP0450,Sales,Bengaluru,Associate,On-site,Female,40,7.6,4,4,4,4,2,3,3,4,2,3,4,10,11,4,
+EMP0451,Technology,Hyderabad,Team Lead,Remote,Female,43,6.0,3,3,2,2,4,4,5,3,4,3,2,7,7,4,
+EMP0452,Operations,Pune,Senior Associate,Hybrid,Male,38,7.2,4,3,3,3,4,3,4,4,4,3,3,6,1,4,
+EMP0453,Customer Support,Bengaluru,Senior Associate,Hybrid,Male,42,9.6,4,3,3,3,4,3,4,4,3,2,2,9,5,3,Would like more learning opportunities.
+EMP0454,Customer Support,Mumbai,Team Lead,Hybrid,Female,36,2.3,4,4,3,3,3,5,3,4,4,3,4,6,5,5,Leadership communication has improved.
+EMP0455,Operations,Hyderabad,Associate,On-site,Male,29,1.8,3,3,3,4,2,3,3,5,4,3,2,6,11,4,Would like more learning opportunities.
+EMP0456,Marketing,Hyderabad,Senior Associate,Hybrid,Male,34,2.1,3,4,3,4,3,4,3,3,2,2,3,7,10,3,My manager is supportive and approachable.
+EMP0457,Marketing,Delhi,Senior Manager,On-site,Male,37,4.2,4,5,3,5,3,2,4,5,4,4,3,9,6,3,Workload has been very high this quarter.
+EMP0458,Operations,Bengaluru,Senior Associate,Remote,Female,43,9.6,4,4,4,4,2,3,4,4,4,3,3,9,4,3,Workload has been very high this quarter.
+EMP0459,Operations,Pune,Senior Associate,Hybrid,Male,32,9.5,3,3,3,2,4,3,4,4,2,3,5,5,6,3,Workload has been very high this quarter.
+EMP0460,Sales,Mumbai,Senior Associate,Hybrid,Prefer not to say,31,3.2,5,5,3,4,4,4,4,4,4,4,3,10,4,5,Leadership communication has improved.
+EMP0461,Operations,Pune,Manager,Remote,Male,30,4.4,3,3,3,3,4,3,4,4,2,2,4,8,8,3,
+EMP0462,Finance,Bengaluru,Senior Associate,On-site,Female,31,3.7,3,2,5,3,2,2,4,5,3,3,4,5,5,3,"Great team, but too many meetings."
+EMP0463,Customer Support,Delhi,Associate,Hybrid,Female,33,5.6,4,4,3,2,4,4,4,3,3,2,4,8,6,3,Would like more learning opportunities.
+EMP0464,Customer Support,Delhi,Associate,On-site,Female,21,2.4,4,5,4,4,5,2,3,3,3,3,4,8,6,2,More clarity on promotion criteria would help.
+EMP0465,Finance,Delhi,Associate,Hybrid,Female,33,2.8,4,4,2,3,4,2,4,5,4,2,3,9,5,4,"Great team, but too many meetings."
+EMP0466,Human Resources,Bengaluru,Senior Manager,On-site,Female,34,4.5,5,5,3,5,4,4,5,3,4,3,3,10,3,4,Would like more learning opportunities.
+EMP0467,Sales,Mumbai,Associate,Hybrid,Female,37,3.6,5,4,4,4,4,4,4,4,5,3,4,10,3,4,My manager is supportive and approachable.
+EMP0468,Marketing,Hyderabad,Associate,Hybrid,Female,34,2.4,3,3,3,3,4,3,3,5,3,3,3,6,10,2,Pay is below market for my role.
+EMP0469,Sales,Pune,Associate,On-site,Male,41,10.0,4,4,3,3,4,3,5,3,3,4,5,8,6,4,
+EMP0470,Operations,Delhi,Manager,On-site,Male,35,1.2,2,3,5,3,2,2,5,2,3,4,4,6,8,2,
+EMP0471,Sales,Mumbai,Senior Manager,On-site,Male,24,8.7,3,3,2,3,3,2,4,5,3,3,3,4,4,3,
+EMP0472,Operations,Bengaluru,Senior Associate,On-site,Male,32,2.2,3,4,3,3,3,2,4,4,3,1,4,4,7,2,Pay is below market for my role.
+EMP0473,Technology,Hyderabad,Associate,Hybrid,Male,36,2.5,3,4,3,4,3,4,5,4,3,3,3,9,5,4,Would like more learning opportunities.
+EMP0474,Customer Support,Mumbai,Manager,Hybrid,Male,21,1.9,2,3,2,5,2,1,4,4,3,2,3,8,7,4,My manager is supportive and approachable.
+EMP0475,Customer Support,Hyderabad,Manager,On-site,Female,42,16.1,4,4,3,4,3,4,4,3,4,3,4,8,6,3,Pay is below market for my role.
+EMP0476,Technology,Bengaluru,Team Lead,Hybrid,Male,30,1.8,4,3,4,3,4,4,3,4,4,4,3,9,2,2,Would like more learning opportunities.
+EMP0477,Operations,Bengaluru,Senior Associate,Remote,Female,40,7.1,4,3,3,4,4,5,5,5,2,3,4,8,4,3,My manager is supportive and approachable.
+EMP0478,Human Resources,Bengaluru,Manager,Hybrid,Female,31,2.5,4,4,3,4,4,3,4,4,3,4,4,8,7,4,
+EMP0479,Technology,Mumbai,Team Lead,On-site,Male,26,1.2,5,4,3,5,3,4,4,5,4,2,3,10,4,4,Leadership communication has improved.
+EMP0480,Technology,Delhi,Senior Associate,On-site,Male,35,11.9,2,3,2,3,3,5,3,4,4,3,5,6,6,3,
+EMP0481,Marketing,Delhi,Team Lead,Hybrid,Female,26,13.5,5,4,4,4,3,3,5,4,5,4,5,10,2,4,"Great team, but too many meetings."
+EMP0482,Human Resources,Pune,Associate,On-site,Male,41,3.3,3,4,3,2,3,4,3,2,5,3,3,7,9,4,
+EMP0483,Finance,Mumbai,Associate,On-site,Female,25,11.6,4,3,3,4,3,5,3,5,3,4,4,8,6,5,Shift timings make work-life balance hard.
+EMP0484,Operations,Delhi,Team Lead,Hybrid,Female,30,2.1,3,3,3,3,2,2,4,5,4,1,4,7,2,3,Shift timings make work-life balance hard.
+EMP0485,Sales,Delhi,Senior Associate,On-site,Female,30,5.2,2,3,2,3,4,3,3,4,4,2,4,6,4,4,
+EMP0486,Finance,Hyderabad,Senior Associate,On-site,Male,26,2.2,3,2,4,3,3,4,5,5,4,4,5,7,4,2,Workload has been very high this quarter.
+EMP0487,Customer Support,Bengaluru,Associate,Hybrid,Male,40,6.1,4,4,3,4,3,2,3,5,3,2,4,8,9,5,Leadership communication has improved.
+EMP0488,Customer Support,Bengaluru,Associate,Hybrid,Female,29,2.9,2,4,3,4,3,1,4,4,2,4,4,7,7,3,
+EMP0489,Customer Support,Mumbai,Senior Associate,Hybrid,Male,40,8.1,3,5,2,4,2,2,2,4,4,3,4,8,2,3,Shift timings make work-life balance hard.
+EMP0490,Operations,Delhi,Team Lead,Hybrid,Female,28,2.8,3,3,4,4,3,3,3,4,3,3,4,7,5,3,Shift timings make work-life balance hard.
+EMP0491,Sales,Mumbai,Senior Associate,On-site,Female,27,2.1,3,4,2,3,3,3,2,4,2,3,4,6,6,2,
+EMP0492,Sales,Mumbai,Associate,Hybrid,Female,30,4.6,5,5,3,4,3,4,5,4,2,2,4,8,0,3,Would like more learning opportunities.
+EMP0493,Operations,Hyderabad,Associate,Remote,Female,36,2.7,2,3,3,3,3,3,2,4,2,4,3,4,7,2,Would like more learning opportunities.
+EMP0494,Operations,Delhi,Associate,On-site,Female,29,3.6,1,3,3,3,3,2,2,2,4,5,2,4,9,3,
+EMP0495,Sales,Mumbai,Senior Manager,On-site,Male,30,3.2,5,5,5,5,4,4,3,4,3,3,3,10,4,5,
+EMP0496,Customer Support,Pune,Senior Associate,On-site,Male,30,3.0,4,4,4,4,2,3,4,4,3,4,4,6,4,4,Pay is below market for my role.
+EMP0497,Sales,Bengaluru,Associate,On-site,Female,29,3.1,3,3,4,3,2,2,5,4,4,3,4,8,7,3,
+EMP0498,Sales,Bengaluru,Senior Associate,Hybrid,Male,36,1.0,5,4,5,3,5,5,3,5,3,3,4,10,1,3,My manager is supportive and approachable.
+EMP0499,Operations,Mumbai,Senior Associate,On-site,Female,37,11.8,1,1,3,4,3,4,2,3,3,4,3,4,6,2,
+EMP0500,Sales,Delhi,Associate,On-site,Male,33,4.4,4,4,3,4,4,4,3,4,5,4,4,7,5,4,Shift timings make work-life balance hard.
+EMP0501,Finance,Hyderabad,Associate,Remote,Male,36,2.8,5,5,4,4,4,4,2,4,5,3,4,10,5,5,
+EMP0502,Finance,Bengaluru,Associate,On-site,Male,34,2.8,4,5,3,5,3,3,4,5,2,4,4,6,4,2,My manager is supportive and approachable.
+EMP0503,Customer Support,Bengaluru,Manager,Hybrid,Prefer not to say,38,7.3,4,3,3,4,5,3,4,3,3,2,3,10,2,3,Pay is below market for my role.
+EMP0504,Marketing,Pune,Manager,Hybrid,Male,33,6.1,4,4,3,3,4,3,3,5,4,3,5,7,3,2,
+EMP0505,Sales,Delhi,Associate,On-site,Female,26,2.3,4,4,3,2,4,4,5,5,4,4,5,9,1,3,More clarity on promotion criteria would help.
+EMP0506,Customer Support,Hyderabad,Senior Manager,On-site,Female,29,6.8,2,3,2,3,2,2,4,3,3,3,4,7,7,4,
+EMP0507,Operations,Bengaluru,Team Lead,Hybrid,Male,25,5.1,4,3,4,4,5,3,3,5,5,3,4,10,6,5,Shift timings make work-life balance hard.
+EMP0508,Technology,Hyderabad,Manager,On-site,Female,31,2.1,5,5,4,4,4,3,3,4,4,5,4,8,2,3,Leadership communication has improved.
+EMP0509,Sales,Bengaluru,Team Lead,Remote,Male,30,0.7,4,4,4,3,2,3,4,4,3,2,4,9,10,4,
+EMP0510,Operations,Bengaluru,Associate,On-site,Male,39,2.0,2,3,3,2,3,2,3,3,5,2,4,6,9,2,Workload has been very high this quarter.
+EMP0511,Customer Support,Delhi,Senior Associate,Hybrid,Female,22,0.5,2,2,4,4,2,1,4,3,3,3,4,6,8,4,Workload has been very high this quarter.
+EMP0512,Technology,Pune,Associate,Hybrid,Female,26,7.0,3,4,3,4,2,3,5,5,4,4,5,7,3,5,
+EMP0513,Operations,Mumbai,Senior Associate,Remote,Male,29,6.5,2,2,4,4,2,2,5,4,3,2,3,6,8,3,
+EMP0514,Operations,Delhi,Senior Associate,On-site,Female,38,1.6,4,3,3,4,3,2,5,3,3,3,2,9,7,3,Would like more learning opportunities.
+EMP0515,Technology,Pune,Associate,On-site,Male,37,2.0,3,4,4,3,3,2,5,4,4,3,4,7,6,3,Shift timings make work-life balance hard.
+EMP0516,Customer Support,Pune,Associate,Hybrid,Male,38,1.8,3,4,3,4,4,4,3,4,2,3,4,9,8,2,Workload has been very high this quarter.
+EMP0517,Marketing,Mumbai,Manager,On-site,Female,31,8.3,3,3,3,5,3,3,3,3,3,3,4,8,6,4,Leadership communication has improved.
+EMP0518,Operations,Mumbai,Associate,Hybrid,Female,28,0.9,3,4,3,3,4,2,3,2,3,2,5,6,8,3,More clarity on promotion criteria would help.
+EMP0519,Technology,Mumbai,Senior Associate,On-site,Female,39,11.1,3,4,3,4,4,4,4,3,2,3,2,6,7,1,My manager is supportive and approachable.
+EMP0520,Customer Support,Hyderabad,Manager,Hybrid,Male,41,3.5,2,3,2,3,4,1,4,2,1,4,4,6,7,3,Workload has been very high this quarter.
+EMP0521,Customer Support,Hyderabad,Team Lead,Hybrid,Male,29,3.0,4,3,3,3,5,3,4,5,3,2,3,8,3,4,Shift timings make work-life balance hard.
+EMP0522,Customer Support,Pune,Senior Associate,Hybrid,Female,21,3.5,3,3,3,3,3,3,2,5,3,4,3,6,6,3,
+EMP0523,Operations,Bengaluru,Team Lead,Hybrid,Male,33,2.7,4,4,3,3,4,3,5,3,3,2,4,9,9,4,Would like more learning opportunities.
+EMP0524,Operations,Mumbai,Manager,On-site,Male,34,2.4,4,5,4,2,4,3,4,4,4,3,4,8,3,3,Leadership communication has improved.
+EMP0525,Sales,Delhi,Associate,On-site,Female,25,2.8,3,4,2,3,3,2,3,4,2,3,5,5,5,3,Shift timings make work-life balance hard.
+EMP0526,Technology,Pune,Senior Associate,On-site,Male,37,8.4,3,3,2,5,3,3,4,4,3,2,4,9,6,4,Would like more learning opportunities.
+EMP0527,Customer Support,Hyderabad,Senior Associate,Hybrid,Female,39,3.5,2,2,2,4,2,3,4,4,3,2,2,4,5,1,Shift timings make work-life balance hard.
+EMP0528,Operations,Mumbai,Senior Associate,Remote,Male,37,2.0,3,4,3,5,2,3,3,3,4,3,5,5,3,3,
+EMP0529,Sales,Mumbai,Senior Associate,On-site,Female,31,2.4,5,5,3,5,4,2,3,3,4,5,4,10,4,3,
+EMP0530,Finance,Bengaluru,Associate,Remote,Male,34,21.4,2,2,1,4,2,3,5,4,2,3,2,4,9,2,
+EMP0531,Sales,Pune,Associate,Hybrid,Female,33,6.2,5,5,5,5,5,4,4,4,4,4,5,10,2,5,Pay is below market for my role.
+EMP0532,Operations,Pune,Associate,Hybrid,Male,29,0.7,4,4,3,5,3,2,4,4,3,4,5,9,4,4,Shift timings make work-life balance hard.
+EMP0533,Sales,Pune,Associate,Remote,Male,30,3.7,3,3,1,3,4,3,3,3,2,4,4,7,9,3,
+EMP0534,Operations,Mumbai,Associate,Hybrid,Male,30,7.4,3,2,4,3,4,3,3,4,3,2,4,9,6,3,
+EMP0535,Sales,Pune,Associate,Hybrid,Male,28,0.7,4,4,5,4,3,3,4,4,2,3,4,8,8,3,My manager is supportive and approachable.
+EMP0536,Operations,Mumbai,Associate,Hybrid,Male,24,2.8,3,3,3,5,2,4,4,5,4,3,4,8,6,2,
+EMP0537,Sales,Bengaluru,Senior Associate,Hybrid,Female,31,3.1,3,2,3,4,2,4,3,5,4,4,4,6,4,2,Workload has been very high this quarter.
+EMP0538,Marketing,Hyderabad,Associate,On-site,Male,30,2.9,1,4,2,3,2,3,3,3,4,3,4,5,11,4,"Great team, but too many meetings."
+EMP0539,Operations,Delhi,Senior Associate,On-site,Male,32,2.1,2,4,1,4,3,2,2,3,4,3,4,3,9,4,More clarity on promotion criteria would help.
+EMP0540,Operations,Pune,Associate,On-site,Male,32,3.5,3,3,3,4,3,3,3,3,2,2,5,8,4,3,Leadership communication has improved.
+EMP0541,Technology,Bengaluru,Senior Associate,Remote,Female,34,6.5,3,3,3,3,3,4,2,4,3,3,4,8,9,3,Would like more learning opportunities.
+EMP0542,Finance,Hyderabad,Associate,Hybrid,Female,35,8.4,5,4,4,4,4,4,4,4,4,3,4,10,0,4,
+EMP0543,Customer Support,Pune,Associate,On-site,Male,33,3.9,4,3,3,2,3,3,5,2,2,2,5,9,4,4,"Great team, but too many meetings."
+EMP0544,Technology,Mumbai,Manager,Remote,Male,26,5.6,4,4,3,4,3,5,3,5,4,3,5,8,3,3,
+EMP0545,Finance,Pune,Associate,Hybrid,Female,42,6.3,3,4,4,4,3,3,4,5,5,3,3,7,0,4,More clarity on promotion criteria would help.
+EMP0546,Customer Support,Pune,Senior Associate,On-site,Female,43,11.7,2,4,3,2,2,3,3,4,2,2,3,2,10,2,
+EMP0547,Sales,Hyderabad,Manager,On-site,Male,46,5.3,4,4,3,5,4,3,4,2,3,3,4,8,7,3,
+EMP0548,Operations,Mumbai,Senior Associate,Remote,Female,32,2.3,2,3,3,3,1,2,2,4,2,2,4,8,9,4,"Great team, but too many meetings."
+EMP0549,Finance,Bengaluru,Manager,Hybrid,Female,37,7.2,3,2,3,4,4,3,3,4,4,4,3,8,4,3,Workload has been very high this quarter.
+EMP0550,Sales,Hyderabad,Associate,Remote,Male,30,1.7,3,3,4,3,4,3,2,4,5,5,3,8,9,3,
+EMP0551,Finance,Pune,Associate,Remote,Male,36,3.7,4,3,1,4,3,4,4,4,2,3,5,6,5,3,Would like more learning opportunities.
+EMP0552,Operations,Pune,Senior Associate,Hybrid,Female,25,1.6,4,4,3,5,3,4,4,3,3,3,4,7,0,2,
+EMP0553,Operations,Hyderabad,Manager,On-site,Male,33,8.8,3,4,4,4,2,3,3,4,4,3,5,6,7,4,More clarity on promotion criteria would help.
+EMP0554,Operations,Bengaluru,Associate,Hybrid,Male,39,1.6,2,3,2,3,4,2,3,4,4,5,4,6,6,3,My manager is supportive and approachable.
+EMP0555,Sales,Delhi,Senior Associate,Hybrid,Male,33,2.4,5,5,3,3,3,3,4,3,5,3,5,10,5,3,Shift timings make work-life balance hard.
+EMP0556,Operations,Bengaluru,Senior Associate,On-site,Male,33,2.2,5,4,3,4,4,5,4,4,3,3,4,10,7,3,"Great team, but too many meetings."
+EMP0557,Finance,Pune,Associate,On-site,Male,21,1.8,2,4,1,4,3,2,3,5,4,2,4,7,9,2,Pay is below market for my role.
+EMP0558,Finance,Delhi,Associate,Hybrid,Female,31,3.0,4,4,3,4,3,5,3,3,3,5,3,10,3,3,"Great team, but too many meetings."
+EMP0559,Marketing,Pune,Team Lead,On-site,Female,34,1.3,2,4,3,4,3,3,4,4,5,4,5,6,10,4,Workload has been very high this quarter.
+EMP0560,Customer Support,Bengaluru,Team Lead,Hybrid,Male,27,5.0,3,3,4,4,1,2,4,3,4,4,5,8,7,3,
+EMP0561,Operations,Hyderabad,Manager,Hybrid,Male,28,3.4,2,2,3,3,2,2,4,4,2,2,5,6,7,3,Workload has been very high this quarter.
+EMP0562,Customer Support,Hyderabad,Associate,Remote,Male,24,2.0,4,3,4,3,3,4,4,3,3,4,3,8,5,2,"Great team, but too many meetings."
+EMP0563,Customer Support,Bengaluru,Manager,On-site,Male,21,1.8,2,3,3,3,4,2,1,4,2,2,4,4,9,2,Workload has been very high this quarter.
+EMP0564,Customer Support,Hyderabad,Senior Associate,On-site,Male,29,6.4,3,3,3,5,4,2,3,4,4,2,4,6,3,5,Would like more learning opportunities.
+EMP0565,Marketing,Pune,Associate,Hybrid,Male,31,2.6,4,4,5,5,3,3,5,5,3,3,3,10,2,5,
+EMP0566,Technology,Mumbai,Senior Associate,Remote,Female,23,5.1,5,5,5,3,3,4,5,5,4,2,4,9,6,5,"Great team, but too many meetings."
+EMP0567,Customer Support,Mumbai,Senior Manager,On-site,Male,25,4.3,2,2,3,2,3,2,3,5,2,3,3,5,10,4,Leadership communication has improved.
+EMP0568,Customer Support,Bengaluru,Associate,On-site,Male,35,6.4,5,4,4,3,3,2,4,4,3,2,4,8,6,3,More clarity on promotion criteria would help.
+EMP0569,Customer Support,Mumbai,Associate,On-site,Female,42,3.7,2,3,4,3,3,1,4,2,3,4,4,5,5,3,Would like more learning opportunities.
+EMP0570,Human Resources,Delhi,Associate,Hybrid,Male,29,2.5,3,3,5,3,4,3,5,3,2,4,4,7,6,3,My manager is supportive and approachable.
+EMP0571,Customer Support,Pune,Associate,Hybrid,Female,42,18.9,3,2,2,4,4,2,3,3,3,3,4,4,5,4,
+EMP0572,Operations,Bengaluru,Senior Associate,Hybrid,Female,46,4.4,2,2,5,5,3,3,2,3,3,3,3,5,7,3,My manager is supportive and approachable.
+EMP0573,Sales,Bengaluru,Senior Associate,Hybrid,Male,39,4.9,5,4,4,4,4,3,4,3,3,2,5,10,4,5,
+EMP0574,Technology,Hyderabad,Manager,On-site,Female,32,5.4,4,3,3,3,4,3,4,5,3,3,5,10,4,4,My manager is supportive and approachable.
+EMP0575,Sales,Mumbai,Senior Associate,On-site,Male,31,8.1,4,5,3,4,3,4,3,4,4,4,4,9,3,3,
+EMP0576,Marketing,Pune,Associate,Hybrid,Male,25,1.0,4,4,3,4,4,3,3,4,3,2,4,9,10,4,Shift timings make work-life balance hard.
+EMP0577,Finance,Mumbai,Team Lead,On-site,Male,35,4.4,4,4,4,4,4,2,4,5,3,2,3,10,4,3,Leadership communication has improved.
+EMP0578,Customer Support,Delhi,Senior Associate,Hybrid,Male,28,1.6,3,4,2,3,3,3,4,4,5,3,4,6,11,4,
+EMP0579,Finance,Delhi,Senior Associate,On-site,Female,33,2.5,4,4,5,3,3,4,4,4,3,3,4,9,4,3,
+EMP0580,Technology,Hyderabad,Associate,On-site,Male,37,7.3,3,3,4,4,3,5,4,3,4,4,3,9,5,3,"Great team, but too many meetings."
+EMP0581,Operations,Pune,Manager,On-site,Female,34,1.4,2,2,3,3,2,3,2,4,4,4,4,5,6,3,
+EMP0582,Marketing,Pune,Manager,Hybrid,Male,32,5.4,4,4,3,5,2,3,5,3,4,3,4,9,5,3,
+EMP0583,Customer Support,Bengaluru,Team Lead,Hybrid,Male,32,3.5,3,4,3,4,2,2,3,3,4,4,5,6,5,4,Pay is below market for my role.
+EMP0584,Human Resources,Bengaluru,Senior Associate,On-site,Female,34,6.2,4,4,2,3,3,2,4,4,4,2,4,5,6,5,
+EMP0585,Operations,Bengaluru,Associate,On-site,Prefer not to say,38,6.0,4,4,2,5,4,3,4,4,5,2,4,9,6,4,Workload has been very high this quarter.
+EMP0586,Human Resources,Mumbai,Associate,Hybrid,Female,23,1.1,3,5,4,3,3,4,3,3,3,4,4,8,9,3,
+EMP0587,Customer Support,Mumbai,Associate,On-site,Male,25,2.6,3,4,2,5,3,1,4,4,2,3,4,7,5,3,Shift timings make work-life balance hard.
+EMP0588,Technology,Mumbai,Associate,Hybrid,Male,33,3.2,5,4,4,4,4,4,4,4,5,3,3,10,7,4,"Great team, but too many meetings."
+EMP0589,Operations,Delhi,Senior Associate,On-site,Male,32,4.2,4,4,4,3,3,2,5,4,4,1,5,8,3,4,
+EMP0590,Technology,Hyderabad,Team Lead,Hybrid,Female,36,2.7,4,5,4,4,3,3,3,3,3,4,4,9,11,3,
+EMP0591,Finance,Bengaluru,Team Lead,Hybrid,Male,36,1.5,3,4,3,4,4,2,2,3,5,4,4,9,7,4,My manager is supportive and approachable.
+EMP0592,Operations,Bengaluru,Associate,Hybrid,Male,33,2.5,3,4,2,4,3,4,3,4,4,3,4,8,5,2,Pay is below market for my role.
+EMP0593,Operations,Bengaluru,Manager,Remote,Male,37,1.8,4,4,4,3,3,2,3,4,4,2,5,6,8,2,Shift timings make work-life balance hard.
+EMP0594,Operations,Hyderabad,Senior Associate,On-site,Female,38,3.1,3,3,4,3,2,4,3,3,2,2,3,6,10,4,My manager is supportive and approachable.
+EMP0595,Technology,Bengaluru,Team Lead,On-site,Female,34,9.0,4,4,3,4,3,4,3,4,3,2,5,6,4,3,
+EMP0596,Sales,Pune,Senior Associate,On-site,Male,33,8.2,5,2,5,4,5,5,4,4,3,3,5,10,3,3,More clarity on promotion criteria would help.
+EMP0597,Human Resources,Hyderabad,Senior Associate,Remote,Male,33,3.9,4,4,2,2,4,4,2,4,3,3,5,10,4,3,
+EMP0598,Operations,Pune,Associate,On-site,Male,30,1.5,5,4,5,3,3,3,4,4,4,4,4,10,6,3,
+EMP0599,Technology,Bengaluru,Team Lead,Hybrid,Female,34,10.1,4,3,3,5,3,2,3,4,3,2,4,10,5,4,Leadership communication has improved.
+EMP0600,Customer Support,Bengaluru,Manager,Remote,Male,28,2.0,2,5,2,3,2,1,2,5,4,2,5,4,4,3,Workload has been very high this quarter.
+EMP0601,Technology,Mumbai,Associate,Hybrid,Male,31,1.5,5,3,3,4,3,5,3,5,3,4,3,10,2,4,More clarity on promotion criteria would help.
+EMP0602,Technology,Delhi,Associate,On-site,Male,42,4.5,4,3,3,3,4,2,3,4,2,2,5,8,4,3,
+EMP0603,Technology,Delhi,Associate,On-site,Female,29,5.8,5,5,3,3,3,3,4,5,2,3,3,8,7,3,
+EMP0604,Technology,Bengaluru,Team Lead,Remote,Female,23,0.6,4,3,2,5,3,4,3,5,4,2,3,9,5,4,Pay is below market for my role.
+EMP0605,Technology,Pune,Team Lead,Remote,Prefer not to say,38,10.2,4,4,3,3,4,4,5,4,4,4,3,10,7,4,More clarity on promotion criteria would help.
+EMP0606,Technology,Bengaluru,Senior Associate,On-site,Male,35,5.3,5,3,4,3,4,4,4,4,5,3,5,10,4,5,
+EMP0607,Marketing,Delhi,Associate,Hybrid,Male,36,4.5,4,4,3,2,4,3,3,4,4,3,4,9,3,3,Leadership communication has improved.
+EMP0608,Technology,Pune,Senior Associate,Hybrid,Female,33,0.9,5,5,5,5,3,4,4,2,3,2,4,10,2,3,Leadership communication has improved.
+EMP0609,Operations,Pune,Team Lead,On-site,Female,45,13.8,3,4,3,5,3,1,3,3,4,5,5,10,9,2,Leadership communication has improved.
+EMP0610,Customer Support,Pune,Associate,Hybrid,Male,27,3.3,3,3,4,2,2,3,3,2,4,3,5,8,5,2,
+EMP0611,Operations,Delhi,Senior Associate,On-site,Female,40,9.7,2,4,3,2,2,3,5,5,3,3,3,5,6,3,Pay is below market for my role.
+EMP0612,Sales,Pune,Manager,On-site,Female,32,3.0,5,5,3,3,2,5,4,5,2,2,5,10,8,5,
+EMP0613,Marketing,Bengaluru,Associate,On-site,Male,36,4.3,4,5,3,3,3,2,3,3,4,4,3,9,2,3,
+EMP0614,Sales,Mumbai,Manager,Hybrid,Male,27,1.9,2,5,2,2,4,4,4,3,5,2,5,7,10,2,Workload has been very high this quarter.
+EMP0615,Technology,Delhi,Associate,On-site,Male,35,1.3,3,4,3,5,4,4,4,5,3,4,4,6,5,4,
+EMP0616,Customer Support,Delhi,Senior Associate,Remote,Female,36,3.0,2,2,4,3,3,3,4,4,3,4,4,5,8,3,More clarity on promotion criteria would help.
+EMP0617,Finance,Mumbai,Senior Associate,Hybrid,Male,40,25.1,5,3,3,4,4,4,2,3,4,3,5,9,2,3,
+EMP0618,Customer Support,Delhi,Associate,Hybrid,Female,41,5.6,2,2,5,2,2,1,2,4,2,3,4,7,8,3,More clarity on promotion criteria would help.
+EMP0619,Customer Support,Delhi,Manager,Hybrid,Female,30,3.0,3,3,2,4,2,4,3,5,3,2,4,8,8,4,Would like more learning opportunities.
+EMP0620,Technology,Mumbai,Associate,On-site,Male,40,10.5,3,4,3,3,2,2,3,3,3,4,3,7,9,4,Shift timings make work-life balance hard.
+EMP0621,Technology,Hyderabad,Associate,Hybrid,Male,43,9.3,4,3,4,4,3,5,5,4,4,3,4,10,5,4,
+EMP0622,Customer Support,Hyderabad,Associate,On-site,Male,36,11.6,2,2,3,5,4,2,3,2,3,2,4,6,11,2,My manager is supportive and approachable.
+EMP0623,Customer Support,Pune,Senior Manager,Hybrid,Male,27,3.8,4,5,4,3,3,3,2,3,4,2,4,7,4,3,More clarity on promotion criteria would help.
+EMP0624,Customer Support,Bengaluru,Associate,Hybrid,Female,40,2.0,3,2,4,5,3,4,4,4,3,3,3,5,1,2,Would like more learning opportunities.
+EMP0625,Sales,Hyderabad,Associate,On-site,Male,30,9.8,3,4,3,4,3,3,4,3,4,3,5,5,7,2,My manager is supportive and approachable.
+EMP0626,Customer Support,Pune,Manager,Hybrid,Male,33,3.5,4,3,4,3,5,2,3,4,3,3,4,10,2,3,"Great team, but too many meetings."
+EMP0627,Sales,Bengaluru,Senior Associate,On-site,Female,36,1.3,4,5,4,3,2,4,3,4,3,2,3,7,3,4,Would like more learning opportunities.
+EMP0628,Technology,Bengaluru,Senior Associate,On-site,Female,33,2.6,3,3,2,4,2,4,3,5,4,5,3,6,12,4,Workload has been very high this quarter.
+EMP0629,Technology,Delhi,Associate,On-site,Male,38,1.9,5,5,4,3,3,4,4,3,3,4,3,10,5,2,"Great team, but too many meetings."
+EMP0630,Operations,Hyderabad,Team Lead,Hybrid,Female,29,1.3,3,3,2,3,4,4,3,4,2,3,4,7,8,4,More clarity on promotion criteria would help.
+EMP0631,Operations,Mumbai,Senior Associate,On-site,Female,30,3.5,4,4,4,2,2,4,4,4,3,3,4,8,7,3,Would like more learning opportunities.
+EMP0632,Sales,Pune,Team Lead,Hybrid,Male,40,5.6,3,3,4,4,3,4,3,4,4,3,4,7,10,5,Workload has been very high this quarter.
+EMP0633,Marketing,Pune,Senior Manager,On-site,Female,37,1.2,4,4,4,3,2,4,3,3,3,2,4,10,7,3,Pay is below market for my role.
+EMP0634,Operations,Delhi,Associate,Hybrid,Male,37,2.9,2,4,3,2,3,3,3,3,3,2,3,2,6,3,
+EMP0635,Technology,Mumbai,Associate,Hybrid,Male,34,2.1,2,2,3,4,3,2,4,4,4,2,3,7,10,2,Shift timings make work-life balance hard.
+EMP0636,Operations,Hyderabad,Senior Manager,On-site,Male,32,10.2,5,4,2,4,4,4,3,5,3,2,5,10,2,4,Would like more learning opportunities.
+EMP0637,Finance,Delhi,Senior Associate,Hybrid,Female,42,4.0,4,2,4,3,4,3,3,4,3,4,4,9,0,4,Leadership communication has improved.
+EMP0638,Customer Support,Delhi,Associate,Hybrid,Male,38,2.3,3,2,3,4,3,2,4,5,3,3,5,5,2,2,
+EMP0639,Operations,Bengaluru,Senior Associate,On-site,Female,30,1.6,3,3,4,4,5,4,4,5,3,3,4,10,2,4,Would like more learning opportunities.
+EMP0640,Technology,Hyderabad,Senior Associate,Hybrid,Female,26,2.1,4,4,4,3,3,3,4,3,2,4,5,6,3,4,Leadership communication has improved.
+EMP0641,Sales,Bengaluru,Associate,Hybrid,Male,39,3.9,4,3,3,3,3,4,4,3,3,2,4,7,2,5,My manager is supportive and approachable.
+EMP0642,Sales,Pune,Associate,On-site,Female,31,2.8,3,3,2,4,4,3,4,4,3,3,5,7,8,3,Leadership communication has improved.
+EMP0643,Sales,Pune,Associate,Remote,Female,26,9.8,3,3,2,4,3,2,4,4,5,1,4,5,8,4,Pay is below market for my role.
+EMP0644,Operations,Mumbai,Associate,Hybrid,Male,32,2.6,3,4,1,5,2,2,3,3,5,3,4,6,7,3,
+EMP0645,Customer Support,Hyderabad,Associate,Hybrid,Male,32,3.2,4,4,3,4,2,4,3,5,4,2,3,7,6,3,More clarity on promotion criteria would help.
+EMP0646,Sales,Delhi,Associate,Hybrid,Male,30,6.1,3,3,2,3,4,4,3,4,4,3,4,6,6,3,Shift timings make work-life balance hard.
+EMP0647,Finance,Hyderabad,Associate,Remote,Female,27,3.1,3,5,1,3,4,3,4,3,3,3,4,7,8,3,"Great team, but too many meetings."
+EMP0648,Sales,Delhi,Senior Associate,On-site,Male,39,15.4,5,4,4,5,4,5,5,4,4,4,4,10,1,4,Pay is below market for my role.
+EMP0649,Marketing,Mumbai,Team Lead,Hybrid,Female,47,12.1,5,4,3,4,5,4,4,4,3,4,4,10,7,3,More clarity on promotion criteria would help.
+EMP0650,Technology,Mumbai,Team Lead,On-site,Female,39,23.1,3,4,2,3,3,3,3,4,4,1,5,6,7,3,
+EMP0651,Human Resources,Mumbai,Senior Associate,Hybrid,Female,34,3.7,3,3,3,4,3,2,3,5,3,4,3,7,9,2,Would like more learning opportunities.
+EMP0652,Technology,Pune,Associate,On-site,Male,35,3.7,5,4,4,5,4,3,3,4,3,4,4,10,4,5,Would like more learning opportunities.
+EMP0653,Finance,Hyderabad,Associate,On-site,Female,39,10.6,4,4,4,3,4,4,4,4,3,3,4,7,6,3,Shift timings make work-life balance hard.
+EMP0654,Marketing,Pune,Manager,On-site,Male,34,6.4,4,4,3,3,4,3,2,3,5,3,4,8,5,3,More clarity on promotion criteria would help.
+EMP0655,Sales,Delhi,Senior Associate,Hybrid,Female,31,3.7,5,5,3,5,5,4,2,2,3,3,4,10,5,4,Would like more learning opportunities.
+EMP0656,Customer Support,Hyderabad,Senior Associate,Hybrid,Female,34,1.3,2,4,2,3,3,2,4,3,4,2,4,7,7,2,Would like more learning opportunities.
+EMP0657,Marketing,Bengaluru,Associate,On-site,Male,33,1.1,4,4,4,4,4,4,4,5,2,2,3,8,3,3,Would like more learning opportunities.
+EMP0658,Customer Support,Hyderabad,Associate,Hybrid,Female,34,7.6,2,4,2,2,3,3,4,4,2,3,5,4,8,2,Workload has been very high this quarter.
+EMP0659,Customer Support,Hyderabad,Senior Manager,On-site,Male,31,3.2,4,3,4,3,3,4,4,3,3,3,4,10,3,3,
+EMP0660,Sales,Pune,Manager,On-site,Female,22,3.0,4,5,4,3,2,3,5,4,3,5,3,8,6,3,My manager is supportive and approachable.
+EMP0661,Human Resources,Pune,Manager,Hybrid,Male,41,4.7,4,4,4,3,4,3,4,5,4,3,3,8,5,4,"Great team, but too many meetings."
+EMP0662,Customer Support,Mumbai,Senior Associate,Hybrid,Male,42,18.3,2,4,2,3,3,4,3,3,4,2,5,5,7,3,
+EMP0663,Customer Support,Bengaluru,Team Lead,On-site,Female,41,4.4,4,2,4,3,3,2,4,4,4,4,5,8,4,4,
+EMP0664,Sales,Pune,Associate,Hybrid,Female,29,8.2,4,4,3,2,3,4,3,5,3,2,5,9,5,4,Leadership communication has improved.
+EMP0665,Operations,Pune,Team Lead,Hybrid,Male,30,1.2,3,4,3,3,3,2,3,5,3,4,4,6,8,2,"Great team, but too many meetings."
+EMP0666,Sales,Bengaluru,Senior Associate,Hybrid,Male,29,1.2,4,4,3,3,3,3,4,3,4,3,5,8,6,4,My manager is supportive and approachable.
+EMP0667,Marketing,Mumbai,Senior Associate,Hybrid,Female,28,3.8,4,4,3,4,3,3,2,3,3,3,4,9,3,3,Would like more learning opportunities.
+EMP0668,Marketing,Delhi,Senior Associate,On-site,Female,34,1.4,5,4,4,3,4,4,3,4,3,3,4,10,7,4,
+EMP0669,Operations,Hyderabad,Associate,Remote,Male,24,1.9,2,3,4,4,3,2,3,4,3,3,3,8,5,2,Leadership communication has improved.
+EMP0670,Human Resources,Bengaluru,Team Lead,On-site,Male,21,1.9,4,4,3,4,4,3,3,4,4,2,4,10,1,4,
+EMP0671,Operations,Delhi,Senior Associate,On-site,Female,23,1.8,4,5,4,3,3,4,4,4,4,2,4,10,6,5,More clarity on promotion criteria would help.
+EMP0672,Human Resources,Mumbai,Associate,Hybrid,Female,34,2.6,5,3,3,5,4,4,5,4,4,2,5,10,4,3,"Great team, but too many meetings."
+EMP0673,Customer Support,Delhi,Senior Associate,Remote,Female,35,3.1,3,3,3,2,4,3,2,3,5,4,5,6,4,2,"Great team, but too many meetings."
+EMP0674,Finance,Hyderabad,Senior Manager,Hybrid,Female,33,0.8,5,5,2,4,4,3,5,5,4,3,5,10,6,3,Pay is below market for my role.
+EMP0675,Sales,Delhi,Senior Associate,Hybrid,Female,34,5.7,4,4,5,5,3,4,4,4,3,3,4,8,3,3,My manager is supportive and approachable.
+EMP0676,Technology,Pune,Associate,On-site,Male,38,9.8,4,3,4,3,2,3,5,3,4,4,4,6,6,4,Pay is below market for my role.
+EMP0677,Technology,Hyderabad,Senior Associate,Hybrid,Male,30,2.5,3,4,3,3,2,3,4,4,4,3,4,4,5,2,Leadership communication has improved.
+EMP0678,Sales,Pune,Senior Associate,On-site,Male,30,1.3,4,4,4,3,5,5,4,2,5,3,4,8,4,3,
+EMP0679,Technology,Delhi,Team Lead,Hybrid,Female,31,3.0,5,5,3,3,3,4,3,4,3,3,5,9,9,4,Shift timings make work-life balance hard.
+EMP0680,Technology,Pune,Team Lead,On-site,Female,30,1.1,4,5,4,4,3,3,3,5,4,3,5,10,6,4,
+EMP0681,Marketing,Delhi,Manager,Hybrid,Male,26,2.5,4,5,3,3,5,3,3,3,3,1,3,10,3,3,Leadership communication has improved.
+EMP0682,Technology,Mumbai,Senior Associate,Hybrid,Female,32,7.5,4,4,2,4,5,4,4,4,4,4,3,9,7,4,
+EMP0683,Operations,Delhi,Senior Associate,Hybrid,Female,33,2.5,3,3,3,3,2,3,3,3,3,3,5,4,11,1,
+EMP0684,Marketing,Mumbai,Senior Associate,On-site,Male,21,0.8,5,5,4,5,4,3,4,4,3,4,4,8,4,4,Would like more learning opportunities.
+EMP0685,Technology,Pune,Senior Associate,Hybrid,Female,34,3.8,4,4,4,3,5,3,4,5,3,4,4,7,6,4,
+EMP0686,Customer Support,Hyderabad,Manager,On-site,Male,40,8.5,3,2,4,3,2,3,4,3,3,2,3,7,6,3,Would like more learning opportunities.
+EMP0687,Operations,Mumbai,Senior Associate,Hybrid,Prefer not to say,26,1.5,2,2,2,4,3,3,5,3,4,4,3,1,8,3,Leadership communication has improved.
+EMP0688,Sales,Mumbai,Senior Associate,Hybrid,Female,42,4.3,3,3,3,4,4,3,3,5,5,3,4,10,8,4,Leadership communication has improved.
+EMP0689,Finance,Pune,Team Lead,On-site,Female,32,8.0,2,5,3,2,3,2,3,4,3,2,3,6,7,2,
+EMP0690,Technology,Delhi,Team Lead,Hybrid,Male,39,13.2,4,5,2,3,3,3,4,3,5,3,4,10,5,3,
+EMP0691,Operations,Delhi,Senior Associate,On-site,Female,28,3.7,2,2,3,3,1,2,3,5,2,3,4,5,9,3,
+EMP0692,Sales,Hyderabad,Manager,On-site,Male,35,12.4,3,4,3,3,2,4,3,5,2,4,5,9,7,3,
+EMP0693,Finance,Delhi,Associate,Hybrid,Male,36,1.5,3,4,3,3,4,3,3,3,2,4,4,5,7,2,Would like more learning opportunities.
+EMP0694,Finance,Mumbai,Associate,Hybrid,Female,38,4.2,5,4,3,4,5,5,5,4,4,3,4,10,5,4,"Great team, but too many meetings."
+EMP0695,Human Resources,Delhi,Associate,Remote,Male,21,1.9,5,5,3,4,4,3,4,5,4,3,3,10,0,4,
+EMP0696,Customer Support,Pune,Team Lead,On-site,Male,29,7.0,4,4,3,3,5,4,4,3,2,4,3,10,6,4,
+EMP0697,Customer Support,Hyderabad,Senior Associate,On-site,Male,40,17.0,3,2,4,3,4,3,4,4,3,5,5,5,8,1,"Great team, but too many meetings."
+EMP0698,Technology,Delhi,Senior Manager,Hybrid,Male,40,5.8,5,4,4,3,3,3,5,3,4,4,5,10,1,4,
+EMP0699,Customer Support,Pune,Associate,On-site,Female,40,4.3,2,2,2,3,3,3,2,5,4,3,3,7,11,2,
+EMP0700,Operations,Pune,Manager,On-site,Male,39,2.8,4,3,2,4,4,4,4,5,4,3,5,8,6,3,More clarity on promotion criteria would help.
+EMP0701,Technology,Mumbai,Manager,Remote,Male,36,4.9,4,4,2,3,3,4,5,3,4,4,4,10,6,4,My manager is supportive and approachable.
+EMP0702,Operations,Mumbai,Senior Manager,On-site,Female,33,2.2,2,2,2,3,3,3,4,4,2,3,5,5,7,2,"Great team, but too many meetings."
+EMP0703,Human Resources,Bengaluru,Senior Associate,On-site,Male,24,4.4,4,5,3,4,4,3,4,3,4,3,4,10,1,3,
+EMP0704,Sales,Pune,Associate,Hybrid,Female,43,4.7,3,5,2,3,4,4,4,3,1,3,4,8,6,2,
+EMP0705,Customer Support,Hyderabad,Senior Associate,Hybrid,Male,41,16.7,3,3,3,4,2,4,3,4,3,2,3,8,6,4,
+EMP0706,Sales,Pune,Team Lead,Hybrid,Male,34,11.4,4,4,4,4,4,4,5,4,4,3,5,8,3,4,More clarity on promotion criteria would help.
+EMP0707,Finance,Bengaluru,Associate,On-site,Male,45,4.0,5,4,4,4,4,5,2,5,4,3,4,8,0,3,Workload has been very high this quarter.
+EMP0708,Customer Support,Delhi,Senior Associate,Hybrid,Female,35,4.6,2,3,3,3,2,2,2,5,3,3,3,5,10,3,
+EMP0709,Sales,Mumbai,Associate,On-site,Female,34,1.5,4,3,3,4,4,2,4,5,4,3,5,8,5,3,"Great team, but too many meetings."
+EMP0710,Operations,Hyderabad,Senior Associate,Hybrid,Male,26,3.1,2,4,3,3,3,3,4,3,3,2,5,4,9,3,Would like more learning opportunities.
+EMP0711,Customer Support,Hyderabad,Senior Associate,On-site,Male,34,10.0,2,4,2,4,2,2,4,4,4,3,4,3,5,3,My manager is supportive and approachable.
+EMP0712,Finance,Pune,Senior Manager,On-site,Female,24,4.3,4,4,4,4,3,3,3,5,4,3,3,10,6,4,Leadership communication has improved.
+EMP0713,Marketing,Mumbai,Senior Associate,On-site,Female,28,12.0,4,3,3,4,4,5,3,4,3,2,4,9,5,3,
+EMP0714,Sales,Bengaluru,Associate,On-site,Female,38,6.7,5,5,4,4,2,3,5,4,3,3,5,8,3,3,
+EMP0715,Operations,Bengaluru,Senior Associate,Hybrid,Male,29,1.5,2,3,3,3,2,2,4,5,3,2,3,5,9,3,"Great team, but too many meetings."
+EMP0716,Human Resources,Hyderabad,Senior Associate,On-site,Male,35,1.0,3,5,2,2,3,3,3,3,3,4,3,8,9,3,
+EMP0717,Sales,Delhi,Associate,Remote,Male,36,11.2,3,3,3,3,4,3,3,5,4,5,3,9,7,3,
+EMP0718,Customer Support,Hyderabad,Team Lead,Remote,Female,32,1.8,4,4,2,4,4,3,3,4,3,3,5,8,4,3,
+EMP0719,Operations,Delhi,Associate,On-site,Male,36,1.2,3,3,3,3,3,3,3,5,3,3,4,6,8,2,
+EMP0720,Sales,Hyderabad,Manager,Remote,Female,32,4.9,4,3,2,3,4,4,3,3,3,4,3,7,8,4,Leadership communication has improved.
+EMP0721,Customer Support,Delhi,Manager,On-site,Male,32,1.9,3,3,3,4,2,1,4,3,3,3,5,5,8,3,Shift timings make work-life balance hard.
+EMP0722,Finance,Pune,Associate,Hybrid,Male,26,2.7,2,3,3,3,3,3,3,3,5,3,4,5,6,2,
+EMP0723,Technology,Hyderabad,Associate,Hybrid,Male,25,3.4,3,4,2,4,1,2,5,5,4,4,3,4,3,3,
+EMP0724,Operations,Bengaluru,Team Lead,On-site,Male,21,2.1,4,3,5,3,3,3,3,5,5,3,5,8,4,3,
+EMP0725,Sales,Pune,Associate,Hybrid,Female,35,4.3,4,4,3,3,4,4,5,3,4,4,5,7,3,3,More clarity on promotion criteria would help.
+EMP0726,Customer Support,Mumbai,Associate,On-site,Female,27,3.1,1,3,4,3,2,1,3,4,4,3,4,5,10,1,Shift timings make work-life balance hard.
+EMP0727,Human Resources,Pune,Team Lead,Hybrid,Female,32,1.4,4,4,4,4,2,2,4,5,3,4,4,9,2,3,My manager is supportive and approachable.
+EMP0728,Sales,Pune,Associate,On-site,Female,27,0.7,4,4,4,3,3,3,5,3,3,2,4,8,6,3,
+EMP0729,Technology,Delhi,Associate,On-site,Female,26,1.9,3,1,4,3,3,3,4,5,4,4,2,6,3,3,More clarity on promotion criteria would help.
+EMP0730,Sales,Mumbai,Senior Associate,Hybrid,Male,23,1.4,4,4,4,3,5,3,3,3,3,3,4,9,6,3,
+EMP0731,Operations,Delhi,Manager,On-site,Male,40,4.4,3,2,2,5,3,3,2,3,4,3,4,5,7,3,Workload has been very high this quarter.
+EMP0732,Customer Support,Pune,Senior Associate,Hybrid,Female,24,2.3,2,3,3,3,3,2,4,3,3,3,5,6,6,2,Leadership communication has improved.
+EMP0733,Marketing,Delhi,Senior Associate,Remote,Female,21,2.9,4,5,3,4,3,1,4,4,3,2,4,9,7,3,Leadership communication has improved.
+EMP0734,Customer Support,Delhi,Senior Associate,Hybrid,Male,37,9.0,5,3,3,5,4,3,4,4,4,1,5,8,4,2,
+EMP0735,Customer Support,Bengaluru,Associate,On-site,Male,29,6.6,5,4,4,3,5,2,3,5,3,3,4,10,2,4,Shift timings make work-life balance hard.
+EMP0736,Customer Support,Bengaluru,Senior Associate,On-site,Female,22,1.8,4,5,4,3,3,2,4,5,2,2,3,8,2,3,
+EMP0737,Sales,Mumbai,Senior Associate,Remote,Male,32,5.8,5,5,3,4,3,4,4,4,4,3,4,10,3,3,
+EMP0738,Finance,Bengaluru,Senior Associate,On-site,Female,42,9.1,3,3,3,2,3,3,4,4,4,3,4,6,9,2,
+EMP0739,Marketing,Delhi,Team Lead,Hybrid,Female,26,5.5,3,3,3,4,3,4,4,5,4,4,4,9,5,2,"Great team, but too many meetings."
+EMP0740,Operations,Pune,Associate,Hybrid,Male,29,6.8,5,4,4,4,4,3,3,5,3,3,3,10,11,4,Pay is below market for my role.
+EMP0741,Sales,Delhi,Senior Manager,Hybrid,Female,37,3.9,4,4,3,3,3,5,3,3,5,2,3,6,6,5,
+EMP0742,Sales,Delhi,Manager,On-site,Female,40,8.4,4,4,2,3,4,5,5,4,4,3,3,9,2,2,Leadership communication has improved.
+EMP0743,Human Resources,Hyderabad,Manager,Hybrid,Male,32,5.2,5,5,5,3,3,3,2,5,3,5,4,10,4,4,Leadership communication has improved.
+EMP0744,Operations,Pune,Senior Associate,On-site,Female,31,2.1,3,3,5,3,3,3,2,5,4,3,5,6,5,2,
+EMP0745,Customer Support,Mumbai,Associate,Remote,Female,32,1.6,3,3,1,4,3,4,3,2,2,4,3,6,6,1,Would like more learning opportunities.
+EMP0746,Operations,Delhi,Senior Associate,On-site,Female,41,7.6,4,5,2,4,3,4,3,4,4,4,5,9,8,2,
+EMP0747,Sales,Mumbai,Associate,Hybrid,Male,37,1.8,2,2,3,3,4,4,4,3,4,3,3,7,9,1,Would like more learning opportunities.
+EMP0748,Operations,Pune,Team Lead,On-site,Female,33,3.5,3,3,5,3,3,2,3,3,4,4,4,8,6,4,
+EMP0749,Sales,Pune,Team Lead,On-site,Female,38,6.2,3,3,3,3,2,4,4,4,3,3,4,6,12,3,Would like more learning opportunities.
+EMP0750,Operations,Bengaluru,Senior Manager,Remote,Male,36,2.2,4,3,4,3,4,3,3,5,3,2,4,10,3,3,My manager is supportive and approachable.
+EMP0751,Customer Support,Hyderabad,Manager,Hybrid,Male,35,2.9,3,3,4,5,3,4,4,4,5,3,3,5,6,4,"Great team, but too many meetings."
+EMP0752,Customer Support,Delhi,Team Lead,Hybrid,Male,23,1.7,4,4,4,4,4,2,3,4,2,3,4,6,11,4,More clarity on promotion criteria would help.
+EMP0753,Operations,Mumbai,Associate,On-site,Male,27,2.4,4,4,3,3,4,3,3,5,4,4,5,8,6,4,My manager is supportive and approachable.
+EMP0754,Operations,Delhi,Senior Associate,Hybrid,Female,29,9.6,3,4,3,2,4,3,5,4,4,4,4,6,7,5,Would like more learning opportunities.
+EMP0755,Technology,Mumbai,Associate,On-site,Female,21,5.7,5,4,3,4,4,4,4,5,2,3,5,10,6,4,More clarity on promotion criteria would help.
+EMP0756,Finance,Hyderabad,Senior Manager,On-site,Male,32,1.3,5,5,4,4,4,3,3,5,5,4,4,10,3,5,
+EMP0757,Finance,Mumbai,Manager,On-site,Female,35,1.9,3,3,4,3,4,3,5,3,4,3,5,7,6,3,
+EMP0758,Sales,Delhi,Senior Associate,On-site,Male,35,2.7,4,4,3,4,3,5,5,4,3,3,5,7,3,3,Workload has been very high this quarter.
+EMP0759,Sales,Pune,Senior Associate,Hybrid,Female,28,2.2,3,4,4,1,4,3,3,3,3,4,4,5,6,3,"Great team, but too many meetings."
+EMP0760,Technology,Mumbai,Associate,On-site,Male,45,5.4,4,3,4,3,3,3,3,2,4,2,3,9,5,3,Leadership communication has improved.
+EMP0761,Customer Support,Bengaluru,Associate,Remote,Male,38,8.8,2,4,2,4,1,2,3,4,3,2,4,5,3,3,
+EMP0762,Customer Support,Pune,Associate,Hybrid,Male,31,3.7,2,3,2,3,2,3,4,2,4,3,4,6,9,3,My manager is supportive and approachable.
+EMP0763,Technology,Mumbai,Associate,Hybrid,Female,30,4.6,4,4,3,3,3,4,3,4,5,3,5,7,3,3,
+EMP0764,Sales,Pune,Associate,On-site,Male,31,2.4,4,4,3,4,3,4,3,3,4,2,4,7,6,4,
+EMP0765,Finance,Pune,Manager,Hybrid,Female,37,1.0,3,3,4,3,3,4,3,4,4,4,5,6,0,3,Pay is below market for my role.
+EMP0766,Technology,Pune,Associate,Remote,Female,29,3.1,4,5,2,2,4,3,3,3,4,3,5,5,5,3,More clarity on promotion criteria would help.
+EMP0767,Customer Support,Delhi,Associate,On-site,Female,33,5.1,1,3,1,3,2,3,3,3,3,2,4,0,10,2,Leadership communication has improved.
+EMP0768,Operations,Bengaluru,Associate,Remote,Female,32,1.6,4,4,4,4,4,2,2,3,3,4,4,7,7,3,Pay is below market for my role.
+EMP0769,Customer Support,Bengaluru,Senior Associate,Hybrid,Female,28,5.1,1,2,2,2,3,2,4,3,4,2,3,1,11,1,More clarity on promotion criteria would help.
+EMP0770,Operations,Hyderabad,Associate,Hybrid,Male,26,0.4,2,3,3,2,3,3,2,4,4,4,4,5,4,3,
+EMP0771,Customer Support,Mumbai,Associate,Hybrid,Female,42,5.2,3,3,2,3,3,4,2,3,4,3,5,7,8,3,Shift timings make work-life balance hard.
+EMP0772,Technology,Hyderabad,Senior Manager,Remote,Male,30,4.4,5,4,4,5,4,3,4,5,2,3,5,10,5,3,
+EMP0773,Sales,Pune,Team Lead,On-site,Male,21,5.1,4,4,3,3,4,2,3,4,3,4,4,8,4,3,"Great team, but too many meetings."
+EMP0774,Sales,Delhi,Senior Associate,On-site,Male,26,4.6,4,4,3,4,4,4,5,2,3,3,4,8,8,3,Leadership communication has improved.
+EMP0775,Customer Support,Hyderabad,Manager,On-site,Female,33,2.8,2,2,2,3,3,3,3,4,4,4,3,5,12,3,Workload has been very high this quarter.
+EMP0776,Operations,Mumbai,Associate,Hybrid,Female,26,5.6,4,3,4,2,3,3,4,4,4,4,4,10,3,4,Leadership communication has improved.
+EMP0777,Customer Support,Mumbai,Manager,Hybrid,Female,31,11.2,2,3,2,4,1,4,4,3,2,4,3,5,10,3,Workload has been very high this quarter.
+EMP0778,Technology,Bengaluru,Associate,Hybrid,Male,35,8.2,5,3,3,3,4,5,4,5,3,3,3,10,1,4,
+EMP0779,Marketing,Pune,Associate,Hybrid,Female,25,2.4,5,5,3,4,4,3,3,5,4,3,3,8,2,4,"Great team, but too many meetings."
+EMP0780,Finance,Bengaluru,Associate,Hybrid,Male,38,2.6,4,4,4,4,3,3,3,4,2,3,4,8,8,4,
+EMP0781,Sales,Pune,Senior Associate,On-site,Male,31,25.0,4,4,3,3,2,5,4,3,5,2,4,7,6,4,More clarity on promotion criteria would help.
+EMP0782,Finance,Pune,Senior Associate,On-site,Female,38,2.4,2,4,2,4,3,4,4,3,4,3,4,6,11,1,"Great team, but too many meetings."
+EMP0783,Sales,Hyderabad,Senior Associate,On-site,Male,32,4.1,5,5,4,5,3,3,4,4,3,2,4,10,3,4,"Great team, but too many meetings."
+EMP0784,Technology,Delhi,Senior Manager,Remote,Female,31,5.6,4,2,4,4,3,3,3,4,4,2,4,6,6,3,Would like more learning opportunities.
+EMP0785,Customer Support,Pune,Senior Associate,Hybrid,Male,36,3.7,5,5,2,4,3,4,5,4,3,3,4,10,4,5,Shift timings make work-life balance hard.
+EMP0786,Technology,Delhi,Senior Associate,Hybrid,Male,35,5.7,3,3,2,3,4,4,3,4,4,3,5,9,3,3,Pay is below market for my role.
+EMP0787,Technology,Pune,Manager,Hybrid,Female,27,2.0,5,4,4,4,4,4,4,4,3,2,4,9,4,3,More clarity on promotion criteria would help.
+EMP0788,Technology,Mumbai,Senior Associate,On-site,Male,36,3.0,5,4,2,3,4,3,3,4,4,3,5,7,4,4,"Great team, but too many meetings."
+EMP0789,Sales,Bengaluru,Senior Associate,On-site,Female,27,1.4,4,3,3,4,5,5,4,4,4,2,4,5,8,4,
+EMP0790,Customer Support,Pune,Senior Manager,On-site,Male,29,3.0,3,4,3,3,3,3,3,3,3,3,3,9,4,3,Would like more learning opportunities.
+EMP0791,Sales,Bengaluru,Manager,Hybrid,Female,37,2.1,4,4,5,4,3,3,5,4,4,1,5,8,5,3,Pay is below market for my role.
+EMP0792,Human Resources,Pune,Senior Associate,Hybrid,Male,38,6.5,5,3,4,4,4,3,5,3,5,3,4,10,1,3,More clarity on promotion criteria would help.
+EMP0793,Customer Support,Hyderabad,Senior Associate,Remote,Female,34,1.8,2,3,3,5,1,2,2,3,4,4,2,6,3,1,More clarity on promotion criteria would help.
+EMP0794,Operations,Delhi,Associate,On-site,Female,38,2.3,5,4,4,4,5,3,4,5,5,3,4,10,2,5,
+EMP0795,Customer Support,Pune,Senior Associate,On-site,Male,34,4.3,2,3,3,2,2,2,2,3,3,2,3,2,9,2,My manager is supportive and approachable.
+EMP0796,Technology,Hyderabad,Senior Associate,On-site,Male,33,4.0,5,5,2,4,3,4,4,4,4,3,5,10,3,4,Pay is below market for my role.
+EMP0797,Finance,Hyderabad,Associate,On-site,Female,38,6.9,3,3,4,3,3,2,3,3,4,4,4,8,10,3,
+EMP0798,Technology,Pune,Senior Manager,On-site,Female,24,3.6,4,2,3,3,4,4,3,2,3,4,4,7,3,5,
+EMP0799,Customer Support,Mumbai,Associate,Hybrid,Female,31,2.7,2,3,2,3,2,2,4,4,2,3,2,5,8,3,"Great team, but too many meetings."
+EMP0800,Customer Support,Pune,Senior Associate,Hybrid,Male,37,7.0,4,4,3,3,3,3,4,4,3,4,4,6,6,4,Shift timings make work-life balance hard.
+EMP0801,Human Resources,Mumbai,Associate,Remote,Male,39,5.2,5,3,4,3,3,4,3,3,5,3,4,10,4,4,
+EMP0802,Operations,Hyderabad,Manager,On-site,Female,33,4.6,3,3,3,3,1,4,4,3,5,4,3,6,8,3,Would like more learning opportunities.
+EMP0803,Customer Support,Mumbai,Associate,On-site,Male,32,5.8,2,4,3,3,3,3,4,4,4,4,3,7,11,3,Would like more learning opportunities.
+EMP0804,Sales,Bengaluru,Associate,Remote,Male,27,3.0,4,4,3,4,4,3,4,4,4,2,4,7,6,3,My manager is supportive and approachable.
+EMP0805,Marketing,Pune,Senior Associate,Hybrid,Male,31,2.4,4,3,4,4,4,3,3,4,4,2,4,9,7,4,My manager is supportive and approachable.
+EMP0806,Operations,Bengaluru,Senior Associate,Hybrid,Female,43,2.5,2,3,2,4,2,4,3,5,3,3,5,4,7,2,Pay is below market for my role.
+EMP0807,Human Resources,Mumbai,Team Lead,Hybrid,Female,40,3.2,4,4,4,5,3,3,4,4,4,3,3,6,6,4,Leadership communication has improved.
+EMP0808,Finance,Pune,Associate,Remote,Male,31,2.2,4,4,5,3,3,5,3,4,2,3,4,9,4,4,
+EMP0809,Customer Support,Hyderabad,Manager,Remote,Female,23,2.0,4,4,5,3,3,4,3,5,3,2,3,8,7,4,My manager is supportive and approachable.
+EMP0810,Marketing,Hyderabad,Team Lead,On-site,Female,45,16.6,5,4,5,3,3,2,3,5,5,4,2,9,5,5,
+EMP0811,Customer Support,Bengaluru,Senior Associate,Remote,Male,29,1.6,1,2,3,4,1,2,3,3,3,3,4,2,8,3,
+EMP0812,Marketing,Hyderabad,Associate,On-site,Female,44,2.5,3,4,2,3,3,2,4,4,4,3,4,6,7,3,More clarity on promotion criteria would help.
+EMP0813,Human Resources,Mumbai,Associate,Hybrid,Male,46,6.4,5,4,5,4,3,2,5,3,4,2,4,8,3,2,More clarity on promotion criteria would help.
+EMP0814,Sales,Hyderabad,Senior Associate,Hybrid,Male,28,5.9,3,3,3,3,3,4,2,2,3,2,4,7,7,3,
+EMP0815,Sales,Pune,Senior Associate,Hybrid,Female,37,0.9,3,5,3,4,2,2,4,4,5,3,4,8,5,4,
+EMP0816,Human Resources,Pune,Senior Associate,Hybrid,Female,36,4.9,3,4,2,4,3,3,2,5,3,3,5,7,5,3,
+EMP0817,Operations,Hyderabad,Senior Associate,On-site,Male,41,7.1,4,3,4,4,2,3,4,5,3,2,2,8,5,4,Shift timings make work-life balance hard.
+EMP0818,Operations,Hyderabad,Senior Associate,Hybrid,Male,32,6.7,4,3,2,3,4,4,3,5,5,4,3,9,5,4,
+EMP0819,Finance,Delhi,Associate,Hybrid,Male,26,2.8,2,5,2,3,3,5,4,4,3,3,5,8,10,3,
+EMP0820,Human Resources,Mumbai,Manager,Hybrid,Male,39,0.8,5,5,4,4,3,5,3,5,4,4,3,10,4,4,Workload has been very high this quarter.
